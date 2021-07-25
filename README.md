@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![giphy](https://user-images.githubusercontent.com/52344717/126904420-bbc2372a-6384-4144-9bf9-7f8cfa77071e.gif) Find me around the web 🌎:
+![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/52344717/126904526-f5dc2566-9f74-4be4-ae9b-ba83306fa546.gif) Find me around the web 🌎:
  : Posting publicly onTwitter : https://twitter.com/itsmeshibintmz
                                                                                                                 : Creator on YouTube : https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA
                                                                                                                  : Sharing updates on LinkedIn : https://www.linkedin.com/in/shibin-thomas-343615206/
