@@ -25,3 +25,6 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 
 
   <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/code.gif" width="500" height="320" />
+
+- 💼 any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
