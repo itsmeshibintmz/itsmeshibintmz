@@ -59,6 +59,7 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://www.photoshop.com/en/images/apps/photoshop.png"/> </a>
 <a href="https://www.eclipse.org/" target="_blank"> <img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png"/> </a>
 <br>
 <br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
