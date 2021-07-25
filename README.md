@@ -45,8 +45,8 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 <!--START_SECTION:waka-->
 ```text
 Java         1hr 00 mins   ████████████▒░░░░░░░░░░░░   49.70 % 
-Python       1 hr 35 mins  ██████████▓░░░░░░░░░░░░░░   01.21 % 
-HTML         0 hrs 0 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   42.97 % 
+Python       1 hr 35 mins  ██████████▓░░░░░░░░░░░░░░   42.97 % 
+HTML         0 hrs 0 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 PHP          18 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 <!--END_SECTION:waka-->
