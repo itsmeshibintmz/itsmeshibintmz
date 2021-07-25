@@ -58,7 +58,7 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://www.photoshop.com/en/images/apps/photoshop.png"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+<a href="https://www.eclipse.org/" target="_blank"> <img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png/> </a>
 <br>
 <br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
