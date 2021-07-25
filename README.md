@@ -1,6 +1,7 @@
 ### Hi I'm Shibin Thomas 👋
 
-<!--
+<img src=https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/Programming%20Banner.jpg alt="banner that says Shibin Thomas - Tech Enthusiastic, content creator and evolving alongside a cartoon illustration of Monica">
+
 **itsmeshibintmz/itsmeshibintmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: josephthomas948@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
