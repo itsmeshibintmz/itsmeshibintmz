@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> ## Heyyo, I'm here !
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> 
+## Heyyo, I'm here !
 (Use dark theme to find my socials ;) 
 - Learning in public on <a href="https://twitter.com/itsmeshibintmz">Twitterhttps://twitter.com/itsmeshibintmz</a> 📹 ✍🏾
 - Creator On <a href="https://codepen.io/m0nica"> YouTube</a>📺
