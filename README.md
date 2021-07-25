@@ -41,3 +41,12 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+Java         1hr 00 mins   ████████████▒░░░░░░░░░░░░   49.70 % 
+Python       0 hrs 0 mins  ██████████▓░░░░░░░░░░░░░░   42.97 % 
+HTML         1 hr 35 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+PHP          18 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+```
+<!--END_SECTION:waka-->
