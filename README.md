@@ -1,6 +1,6 @@
 ### Hi I'm Shibin Thomas 👋
 
-<img src=https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/Programming%20Banner.jpg alt="banner that says Shibin Thomas - Tech Enthusiastic, content creator and evolving alongside a cartoon illustration of Monica">
+<img src=https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/hack%20bencher.jpg alt="banner that says Shibin Thomas - Tech Enthusiastic, content creator and evolving alongside a cartoon illustration of Monica">
 
 **itsmeshibintmz/itsmeshibintmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
