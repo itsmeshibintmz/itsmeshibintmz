@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://twitter.com/itsmeshibintmz">Twitterhttps://twitter.com/itsmeshibintmz</a> 📹 ✍🏾
 - Creator On <a href="https://codepen.io/m0nica"> YouTube</a>📺
-- Sharing updates on <a href="https://www.linkedin.com/in/shibin-thomas-343615206/">LinkedIn</a> 💼
+- <a href="https://www.linkedin.com/in/shibin-thomas-343615206/ target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" / 💼
