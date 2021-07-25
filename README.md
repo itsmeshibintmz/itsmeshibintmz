@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![oie_25172938eBaXl9qm](https://user-images.githubusercontent.com/52344717/126904603-91c2841c-ad6b-4b28-b115-67a3cbaf5b7a.gif)  Find me around the web 🌎:
- : Posting publicly onTwitter : https://twitter.com/itsmeshibintmz
-                                                                                                                : Creator on YouTube : https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA
-                                                                                                                 : Sharing updates on LinkedIn : https://www.linkedin.com/in/shibin-thomas-343615206/
+
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning in public on <a href="https://twitter.com/itsmeshibintmz">Twitterhttps://twitter.com/itsmeshibintmz</a> 📹 ✍🏾
+- Creator On <a href="https://codepen.io/m0nica"> YouTube</a>📺
+- Sharing updates on <a href="https://www.linkedin.com/in/shibin-thomas-343615206/">LinkedIn</a> 💼
