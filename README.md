@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Find me around the web 🌎:
-![giphy](https://user-images.githubusercontent.com/52344717/126904420-bbc2372a-6384-4144-9bf9-7f8cfa77071e.gif) : Posting publicly onTwitter : https://twitter.com/itsmeshibintmz
+![giphy](https://user-images.githubusercontent.com/52344717/126904420-bbc2372a-6384-4144-9bf9-7f8cfa77071e.gif) Find me around the web 🌎:
+ : Posting publicly onTwitter : https://twitter.com/itsmeshibintmz
                                                                                                                 : Creator on YouTube : https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA
                                                                                                                  : Sharing updates on LinkedIn : https://www.linkedin.com/in/shibin-thomas-343615206/
