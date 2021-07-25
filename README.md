@@ -15,8 +15,7 @@
   <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
 
-
-<img src=https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/hack%20bencher.jpg alt="banner that says Shibin Thomas - Tech Enthusiastic, content creator and evolving alongside a cartoon illustration of Monica">
+![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz)
 
 **itsmeshibintmz/itsmeshibintmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
