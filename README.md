@@ -60,7 +60,7 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://www.photoshop.com/en/images/apps/photoshop.png"/> </a>
 <a href="https://www.eclipse.org/" target="_blank"> <img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db34323d-1fbd-4d9c-8c66-1962bfde60e4/d5ln45d-1ab522f3-7646-4b76-b708-9377640020de.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiMzQzMjNkLTFmYmQtNGQ5Yy04YzY2LTE5NjJiZmRlNjBlNFwvZDVsbjQ1ZC0xYWI1MjJmMy03NjQ2LTRiNzYtYjcwOC05Mzc3NjQwMDIwZGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OAEMK-DT0CaSXGvY0qkX2dV3Ca2e8k_ooEvGk3t5UBY"/> </a>
-<a href="https://developer.android.com/" target="_blank"> <img align="left" alt="XD" width="26px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" alt="XD" width="26px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/> </a> 
 <br>
 <br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
