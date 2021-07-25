@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/itsmeshibintmz" target="_blank"><img align="left" alt="Shibin Thomas | Github" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/github.png" />
 <a href="https://www.linkedin.com/in/shibin-thomas-343615206" target="_blank"><img align="left" alt="Shibin Thomas | LinkedIn" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/linkedin.png" />
 <a href="https://twitter.com/itsmeshibintmz" target="_blank"><img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/twitter.png" />
-<a href="https://www.quora.com/profile/Shibin-Thomas-70" target="_blank"><img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/quora.png" />
 <a href="https://www.hackerrank.com/josephthomas948" target="_blank"><img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/hackerrank.png" />
 <a href="https://www.hackerearth.com/@josephthomas948" target="_blank"><img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/hackerearth.png" />
+<a href="https://www.quora.com/profile/Shibin-Thomas-70" target="_blank"><img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/quora.png" />
 <a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA" target="_blank"><img align="left" alt="Shibin Thomas | YouTube" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/youtube.png" />
