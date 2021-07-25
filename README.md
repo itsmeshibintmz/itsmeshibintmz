@@ -1,4 +1,4 @@
-# Hi, I'm Shibin 👋 👩🏾‍💻
+# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <img src=https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/hack%20bencher.jpg alt="banner that says Shibin Thomas - Tech Enthusiastic, content creator and evolving alongside a cartoon illustration of Monica">
