@@ -1,4 +1,4 @@
-<u> Hi I'm Shibin Thomas 👋 </u>
+# Hi, I'm Shibin 👋 👩🏾‍💻
 
 
 <img src=https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/hack%20bencher.jpg alt="banner that says Shibin Thomas - Tech Enthusiastic, content creator and evolving alongside a cartoon illustration of Monica">
