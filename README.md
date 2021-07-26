@@ -96,7 +96,6 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 <br>
-<br>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:josephthomas948@gmail.com'>josephthomas948@gmail.com</a>
