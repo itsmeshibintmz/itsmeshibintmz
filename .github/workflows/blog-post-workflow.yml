@@ -12,3 +12,5 @@ jobs:
       - uses: itsmeshibintmz/blog-post-workflow@main
         with:
           feed_list: "https://stackoverflow.com/feeds/user/shibin-thomas"
+defaults:
+  
