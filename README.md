@@ -5,6 +5,7 @@
 [![Quora Follow](https://img.shields.io/website?label=Quora&style=for-the-badge&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FShibin-Thomas-70)](
 https://www.quora.com/profile/Shibin-Thomas-70)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=josephthomas948@gmail.com&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com)
 
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
