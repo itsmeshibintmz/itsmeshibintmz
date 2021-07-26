@@ -72,6 +72,15 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" alt="XD" width="26px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/> </a> 
 <br>
 <br>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Radeon_RX_560X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+</p>
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/itsmeshibintmz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
