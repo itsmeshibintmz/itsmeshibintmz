@@ -1,10 +1,13 @@
 # Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p align='center'>
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA?original_referer=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTm_fmEE-cRBjyqM_noDEZA&screen_name=Subscribe)
 [![HackerRank](https://img.shields.io/website?label=HackerRank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2Fjosephthomas948)](https://www.hackerrank.com/josephthomas948)
 [![Quora Follow](https://img.shields.io/website?label=Quora&style=for-the-badge&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FShibin-Thomas-70)](
 https://www.quora.com/profile/Shibin-Thomas-70)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
+
+</p>
 
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
