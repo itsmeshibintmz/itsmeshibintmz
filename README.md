@@ -76,10 +76,6 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br />
-<div align='center'>
-  <i>Random dev joke for you! </i><br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?   bgColor0D1117&textColor=FFFFFF&aColor=FFFFFF&borderColor=FFFFFF" alt="README Jokes"></a>
-</div>
 
 <p align='center'>
   💻 My workspace<br/><br/>
