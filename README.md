@@ -116,6 +116,61 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="shibinthomas" />
 
 <details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Bachelor of Computer Application**\
+📆 2018 - 2021\
+📍 **St.George's College Aruvithura** - Aruvithura, Kottayam, Kerala
+
+- 📖 **Plus Two Science**\
+📆 2015 - 2017\
+📍 **CMS HSS Melukavu** - Melukavu, Kottayam, Kerala
+
+- 📖 **THSLC**\
+📆 2012 - 2015\
+📍 **Technical Higher Secondary School** - Muttom, Kerala
+
+## Volunteering
+
+<img align="right" width="50px" src="https://nss.gov.in/sites/all/themes/youthaffair/logo.png" />
+
+- 👨‍💻 **Volunteer Secretary**\
+📆 2019 - 2020\
+📍 **National Service Scheme** - St.George's College Aruvithura, Kerala
+  
+
+## Skills
+
+**Programming Languages**
+
+<img align="right" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+**Operating Systems**
+
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+
+</details>
+  
+<details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/itsmeshibintmz/'>
