@@ -87,8 +87,8 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
   📫 How to reach me: <a href='mailto:josephthomas948@gmail.com'>josephthomas948@gmail.com</a>
 </p>
 
-<p align='center'>
-  ⚙️ Softwares<br><br>
+<p>
+  ⚙️ Softwares I'm Familiar with :<br><br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
