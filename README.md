@@ -1,5 +1,18 @@
 # Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+hi, i'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and a tech enthusiastic from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i'm 22 years old, graduating in Bachelor of Computer Application at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09").
+
+i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<br/>
+ <em><b>- Henry Ford</b></em>
+<br><br/>
+
+### You can connect with me:
+
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat-square&logo=github)](https://github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat-square&logo=telegram&logoColor=white)](https://t.me/itsm3_shibintmz)
@@ -32,17 +45,6 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 
 <br />
 </h1>
-
-<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
-<br/>
- <em><b>- Henry Ford</b></em>
-<br><br/>
-
-hi, i'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and a tech enthusiastic from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i'm 22 years old, graduating in Bachelor of Computer Application at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09").
-
-i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/code.gif" width="500" height="320" />
 
