@@ -64,12 +64,12 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <br />
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Radeon_RX_560X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/512%20GB%20SSD-Solid%20State%20Disk-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/1%20tB%20HDD-Hard%20Disk-lightgrey?style=for-the-badge" />
+  <img alt="os" src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="soc" src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img alt="graphics" src="https://img.shields.io/badge/AMD-Radeon_RX_560X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img alt="ssd" src="https://img.shields.io/badge/512%20GB%20SSD-Solid%20State%20Disk-lightgrey?style=for-the-badge" />
+  <img alt="hdd" src="https://img.shields.io/badge/1%20tB%20HDD-Hard%20Disk-lightgrey?style=for-the-badge" />
 </p>
 <p align='center'>
   📫 How to reach me: <a href='mailto:josephthomas948@gmail.com'>josephthomas948@gmail.com</a>
