@@ -140,11 +140,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 - 👨‍💻 **Volunteer Secretary**\
 📆 2019 - 2020\
 📍 **National Service Scheme** - St.George's College Aruvithura, Kerala
-  
 
-## Skills
-
-**Programming Languages**
+##Programming Languages
 
 <img align="right" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -155,7 +152,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-**Operating Systems**
+##Operating Systems
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
