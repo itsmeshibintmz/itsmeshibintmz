@@ -26,7 +26,11 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 
 <br />
 
-I'm 22 years old, Indian and I'm graduating in Bachelor of Computer Application at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09").
+hi, i'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and a tech enthusiastic from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i'm 22 years old, graduating in Bachelor of Computer Application at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09").
+
+i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/code.gif" width="500" height="320" />
 
