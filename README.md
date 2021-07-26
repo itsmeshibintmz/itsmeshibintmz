@@ -73,14 +73,17 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
   📫 How to reach me: <a href='mailto:josephthomas948@gmail.com'>josephthomas948@gmail.com</a>
 </p>
 
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://www.photoshop.com/en/images/apps/photoshop.png"/> </a>
-<a href="https://www.eclipse.org/" target="_blank"> <img align="left" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db34323d-1fbd-4d9c-8c66-1962bfde60e4/d5ln45d-1ab522f3-7646-4b76-b708-9377640020de.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiMzQzMjNkLTFmYmQtNGQ5Yy04YzY2LTE5NjJiZmRlNjBlNFwvZDVsbjQ1ZC0xYWI1MjJmMy03NjQ2LTRiNzYtYjcwOC05Mzc3NjQwMDIwZGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OAEMK-DT0CaSXGvY0qkX2dV3Ca2e8k_ooEvGk3t5UBY"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" alt="XD" width="26px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/> </a> 
+<p align='center'>
+  ⚙️ Softwares<br><br>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</p>
 <br>
 <br>
 
