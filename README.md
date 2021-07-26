@@ -83,11 +83,8 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
   <img alt="ssd" src="https://img.shields.io/badge/512%20GB%20SSD-Solid%20State%20Disk-lightgrey?style=for-the-badge" />
   <img alt="hdd" src="https://img.shields.io/badge/1%20tB%20HDD-Hard%20Disk-lightgrey?style=for-the-badge" />
 </p>
-<p align='center'>
-  📫 How to reach me: <a href='mailto:josephthomas948@gmail.com'>josephthomas948@gmail.com</a>
-</p>
 
-<p>
+<p align='center'>
   ⚙️ Softwares I'm Familiar with :<br><br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -100,6 +97,10 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 </p>
 <br>
 <br>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:josephthomas948@gmail.com'>josephthomas948@gmail.com</a>
+</p>
 
 ### :muscle: Things I'm currently challenging myself with:
 - Code exercises everyday!
