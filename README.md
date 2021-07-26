@@ -83,7 +83,7 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
   <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat&logoColor=white" />
   <img alt="graphics" src="https://img.shields.io/badge/AMD-Radeon_RX_560X-ED1C24?style=flat&logo=amd&logoColor=white" />
   <img alt="ssd" src="https://img.shields.io/badge/512%20GB%20SSD-Solid%20State%20Disk-lightgrey?style=flat" />
-  <img alt="hdd" src="https://img.shields.io/badge/1%20tB%20HDD-Hard%20Disk-lightgrey?style=flat" />
+  <img alt="hdd" src="https://img.shields.io/badge/1%20TB%20HDD-Hard%20Disk-lightgrey?style=flat" />
 </p>
 
 <p align='center'>
