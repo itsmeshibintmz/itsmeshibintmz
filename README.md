@@ -2,6 +2,9 @@
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat-square&logo=github)](https://github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat-square&logo=telegram&logoColor=white)](https://t.me/itsm3_shibintmz)
+[![Discord](https://img.shields.io/static/v1?label=Discord&labelColor=6E85D3&message=itsme_shibintmz#0009&color=555555&style=flat-square&logo=discord&logoColor=white)](#)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=Shibin Thomas&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com)
 
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA?original_referer=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTm_fmEE-cRBjyqM_noDEZA&screen_name=Subscribe)
 [![HackerRank](https://img.shields.io/website?label=HackerRank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2Fjosephthomas948)](https://www.hackerrank.com/josephthomas948)
