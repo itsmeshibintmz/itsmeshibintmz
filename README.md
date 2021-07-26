@@ -24,6 +24,12 @@ hi, i'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-ta
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
+- �� I'm currently workung on a [Java Development Course][https://www.youtube.com/freecodecamp]
+- �� I'm currently learning everything I can
+- �‍��� I'm looking forward to be in a place where I can collaborate with other content creators
+- �‍���  2 Year Goal : Learn and acquire a career
+- ⚡ Fun fact : I'm a cafephile and I write code
+
   <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/code.gif" width="500" height="320" />
 
 - 💼 any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :)
