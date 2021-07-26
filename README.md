@@ -70,7 +70,7 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <br />
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img alt="os" src="<img src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;" />
+  <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="soc" src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img alt="graphics" src="https://img.shields.io/badge/AMD-Radeon_RX_560X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
