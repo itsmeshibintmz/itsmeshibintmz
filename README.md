@@ -1,6 +1,7 @@
 # Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/twitter/follow/itsmeshibintmz?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz)](https://twitter.com/itsmeshibintmz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
 
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
