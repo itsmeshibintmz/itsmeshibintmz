@@ -2,6 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA?original_referer=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTm_fmEE-cRBjyqM_noDEZA)
+[![LinkedIn Follow](https://img.shields.io/LinkedIn/url?logo=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshibin-thomas-343615206)](https://www.linkedin.com/in/shibin-thomas-343615206)]
 
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
