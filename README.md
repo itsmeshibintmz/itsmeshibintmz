@@ -78,7 +78,7 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
   <img alt="hdd" src="https://img.shields.io/badge/1%20tB%20HDD-Hard%20Disk-lightgrey?style=for-the-badge" />
 </p>
 <p align='center'>
-  📫 How to reach me: [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=josephthomas948@gmail.com&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com)
+  📫 How to reach me: (mailto:josephthomas948@gmail.com)[jospehthomas948@gmail.com]
 </p>
 
 <p align='center'>
