@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: itsmeshibintmz/blog-post-workflow@master
+      - uses: itsmeshibintmz/blog-post-workflow@main
         with:
           feed_list: "https://stackoverflow.com/feeds/user/shibin-thomas"
