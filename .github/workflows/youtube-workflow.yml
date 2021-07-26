@@ -1,8 +1,8 @@
 name: Latest YouTube Videos
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,4 +13,4 @@ jobs:
       - users: actions/checkout@v2
       with:
         comment_tag_name: "YOUTUBE"
-        feed_list: "https://www.youtube.com/feeds/vieos.xml?channel_id=UCTm_fmEE-cRBjyqM_noDEZA
+        feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTm_fmEE-cRBjyqM_noDEZA
