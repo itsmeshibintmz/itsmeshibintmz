@@ -8,11 +8,11 @@
 [![Discord](https://img.shields.io/static/v1?label=Discord&labelColor=6E85D3&message=itsme_shibintmz#0009&color=555555&style=flat-square&logo=discord&logoColor=white)](#)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=josephthoma948@gmail.com&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com)
 
-[![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA?original_referer=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTm_fmEE-cRBjyqM_noDEZA&screen_name=Subscribe)
-[![HackerRank](https://img.shields.io/website?label=HackerRank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2Fjosephthomas948)](https://www.hackerrank.com/josephthomas948)
-[![Quora Follow](https://img.shields.io/website?label=Quora&style=for-the-badge&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FShibin-Thomas-70)](
+[![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=flat)](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA?original_referer=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTm_fmEE-cRBjyqM_noDEZA&screen_name=Subscribe)
+[![HackerRank](https://img.shields.io/website?label=HackerRank&style=flat&url=https%3A%2F%2Fwww.hackerrank.com%2Fjosephthomas948)](https://www.hackerrank.com/josephthomas948)
+[![Quora Follow](https://img.shields.io/website?label=Quora&style=flat&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FShibin-Thomas-70)](
 https://www.quora.com/profile/Shibin-Thomas-70)
-[![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
 
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -78,12 +78,12 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <br />
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="soc" src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img alt="graphics" src="https://img.shields.io/badge/AMD-Radeon_RX_560X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img alt="ssd" src="https://img.shields.io/badge/512%20GB%20SSD-Solid%20State%20Disk-lightgrey?style=for-the-badge" />
-  <img alt="hdd" src="https://img.shields.io/badge/1%20tB%20HDD-Hard%20Disk-lightgrey?style=for-the-badge" />
+  <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img alt="soc" src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=flat&logo=amd&logoColor=white" />
+  <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat&logoColor=white" />
+  <img alt="graphics" src="https://img.shields.io/badge/AMD-Radeon_RX_560X-ED1C24?style=flat&logo=amd&logoColor=white" />
+  <img alt="ssd" src="https://img.shields.io/badge/512%20GB%20SSD-Solid%20State%20Disk-lightgrey?style=flat" />
+  <img alt="hdd" src="https://img.shields.io/badge/1%20tB%20HDD-Hard%20Disk-lightgrey?style=flat" />
 </p>
 
 <p align='center'>
