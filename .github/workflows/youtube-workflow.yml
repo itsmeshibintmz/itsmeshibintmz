@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README with latest videos from YouTube
     runs on: ubuntu-latest
     steps:
-      - users: actions/checkout@v2
+      - uses: actions/checkout@v2
       with:
         comment_tag_name: "YOUTUBE"
         feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTm_fmEE-cRBjyqM_noDEZA
