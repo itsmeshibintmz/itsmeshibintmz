@@ -76,6 +76,9 @@ PHP          18 mins       ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br />
+ <!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=flat&logo=windows&logoColor=white" />
