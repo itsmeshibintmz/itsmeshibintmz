@@ -107,7 +107,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <details>
     <summary><b>📈&nbsp;&nbsp;Activity History</b></summary>
   <br>
-  <a href="https://profile.codersrank.io/user/itsmeshibintmz/'>
+  <a href='https://profile.codersrank.io/user/itsmeshibintmz/'>
     <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=itsmeshibintmz'>
   </a>
 </details>
