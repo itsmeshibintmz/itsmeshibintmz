@@ -145,14 +145,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&theme=github" alt="itsmeshibintmz" /></p> 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>📃 Resume</summary>
 
 
