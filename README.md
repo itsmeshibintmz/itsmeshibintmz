@@ -141,6 +141,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/itsmeshibintmz/github-readme-stats) 
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeshibintmz&repo=github-readme-stats)](https://github.com/itsmeshibintmz/github-readme-stats) 
+  
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&theme=github" alt="itsmeshibintmz" /></p> 
 
