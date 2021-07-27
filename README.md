@@ -161,7 +161,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Volunteering
 
-<img align="right" width="50px" src="https://nss.gov.in/sites/all/themes/youthaffair/logo.png" />
+<img align="right" width="50px" src="https://www.pngkey.com/png/full/247-2479287_nss-logo-national-service-scheme-logo-png.png" />
 
 - 👨‍💻 **Volunteer Secretary**\
 📆 2019 - 2020\
