@@ -136,6 +136,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&theme=github" alt="itsmeshibintmz" /></p> 
 
+
+[![Shibin's github stats](https://github-readme-stats.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="shibinthomas")](https://github.com/itsmeshibintmz/github-readme-stats)
+
 <details>
   <summary>📃 Resume</summary>
 
