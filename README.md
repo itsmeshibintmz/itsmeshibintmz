@@ -130,7 +130,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
