@@ -126,6 +126,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
 ---
+  <summary>⚡ Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
