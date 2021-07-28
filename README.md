@@ -71,6 +71,10 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 📊 **this week i spent my time on:**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=flat&logo=windows&logoColor=white" />
