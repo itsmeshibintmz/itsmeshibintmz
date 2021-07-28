@@ -126,7 +126,14 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/itsmeshibintmz/github-readme-stats) 
   
 ## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&theme=github" alt="itsmeshibintmz" /></p> 
+<details>
+  <br/>
+   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
 
 <details>
   <summary>📃 Resume</summary>
@@ -205,12 +212,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 #### To reach me: just send an email, a message on discord or telegram, all links are above!
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
