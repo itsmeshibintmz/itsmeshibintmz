@@ -66,6 +66,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4"></code>
 
 📊 **this week i spent my time on:**
 
@@ -127,7 +128,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ## Contribution Graph
   <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
