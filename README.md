@@ -204,3 +204,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </details>
 
 #### To reach me: just send an email, a message on discord or telegram, all links are above!
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
