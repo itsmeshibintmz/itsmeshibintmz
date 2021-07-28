@@ -39,7 +39,7 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 <br><br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Cafephile;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 hi, i'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and a tech enthusiastic from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
