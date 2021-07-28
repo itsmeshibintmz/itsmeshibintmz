@@ -79,6 +79,7 @@ No Activity tracked this Week
 
 <br>
 <br>
+<br>
 
 <p align='center'>
   💻 My workspace<br/><br/>
