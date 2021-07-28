@@ -126,12 +126,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/itsmeshibintmz/github-readme-stats) 
   
 ## Contribution Graph
-<details>
   <br/>
    <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-</details>
 
 <br/>
 
