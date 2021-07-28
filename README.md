@@ -127,7 +127,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ## Contribution Graph
   <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
