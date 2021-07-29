@@ -74,7 +74,9 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     1 hr 12 mins    ██████████████████████▒░░   89.74 % 
+YAML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 
