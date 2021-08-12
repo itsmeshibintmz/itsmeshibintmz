@@ -86,7 +86,7 @@ Markdown   1 min           █████████████████�
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=flat&logo=windows&logoColor=white" />
   <img alt="soc" src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=flat&logo=amd&logoColor=white" />
   <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat&logoColor=white" />
-  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white" />
   <img alt="ssd" src="https://img.shields.io/badge/1.25%20TB%20SSD-Solid%20State%20Disk-lightgrey?style=flat" />
   <img alt="hdd" src="https://img.shields.io/badge/1%20TB%20HDD-Hard%20Disk-lightgrey?style=flat" />
 </p>
