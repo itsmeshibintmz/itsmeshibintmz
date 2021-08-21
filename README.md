@@ -89,7 +89,7 @@ HTML       20 mins         █▓░░░░░░░░░░░░░░░�
 <p align='center'>
   💻 My workspace<br/><br/>
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img alt="os" src="https://img.shields.io/badge/mac%20os-Acer_Nitro_5?style=flat&logo=apple&logoColor=white" />
+  <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" />
   <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=flat&logo=intel&logoColor=white" />
   <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat&logoColor=white" />
   <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white" />
