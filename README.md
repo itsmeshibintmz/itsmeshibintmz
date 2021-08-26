@@ -74,9 +74,10 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 ```text
-Java       4 hrs 50 mins   ██████████████████████▒░░   89.29 % 
-Markdown   29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-XML        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Java       7 hrs 7 mins    ██████████████████████▓░░   91.18 % 
+Markdown   35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+XML        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
 
