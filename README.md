@@ -123,11 +123,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Apple Event - September 2021](https://www.youtube.com/watch?v=K1awnrbVruI)
 - [NEED FOR SPEED PAYBACK | GAMEPLAY |  WALKTHROUGH PART 1 | 1 HR | HD](https://www.youtube.com/watch?v=v8cW5HnM9JQ)
 - [New Gaming Keyboard & Mouse | Reveal | First Look | 2021](https://www.youtube.com/watch?v=yLZfVdOgEcs)
 - [4 Windows Software that are Actually Great! | Malayalam Explained | 4K | SHIBIN THOMAS](https://www.youtube.com/watch?v=7lIlEAD32sM)
 - [How To Delete Windows.old Folder | Explained 4K](https://www.youtube.com/watch?v=0VvDoXCLr70)
+- [How To Create A Bootable USB Drive in Windows 10](https://www.youtube.com/watch?v=7_pOka44aUY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
