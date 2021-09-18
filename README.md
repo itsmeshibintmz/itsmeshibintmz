@@ -15,8 +15,8 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.instagram.com/itsme_shibintmz">
-  <img align="left" alt="Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+<a href="https://steamcommunity.com/profiles/76561199031932477/">
+  <img align="left" alt="Steam" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/steam.svg" />
 </a>
 <a href="https://twitter.com/itsmeshibintmz">
   <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
