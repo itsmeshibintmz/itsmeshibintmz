@@ -21,11 +21,11 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 <a href="https://www.linkedin.com/in/shibin-thomas-343615206">
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/cel9za9j8u6619mx74lmopapg">
-  <img align="left" alt="Shibin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://steamcommunity.com/profiles/76561199031932477/">
   <img align="left" alt="Steam" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/steam.svg" />
+</a>
+<a href="https://open.spotify.com/user/cel9za9j8u6619mx74lmopapg">
+  <img align="left" alt="Shibin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA">
   <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
