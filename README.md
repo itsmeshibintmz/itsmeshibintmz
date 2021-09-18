@@ -1,5 +1,4 @@
 # Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![ezgif-5-d68f3a793a43](https://user-images.githubusercontent.com/52344717/133910966-623f045b-52f4-494c-9695-d5d8e72ccf9a.gif)
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
