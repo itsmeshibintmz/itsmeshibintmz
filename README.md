@@ -156,30 +156,30 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 &nbsp;Resume</summary>
 
 
 ## Education
 
-- 📖 **Bachelor of Computer Application**\
-📆 2018 - 2021\
-📍 **St.George's College Aruvithura** - Aruvithura, Kottayam, Kerala
+- 📖 **&nbsp;Bachelor of Computer Application**\
+📆 &nbsp;2018 - 2021\
+📍 **&nbsp;St.George's College Aruvithura** - Aruvithura, Kottayam, Kerala
 
-- 📖 **Plus Two Science**\
+- 📖 **&nsbp;Plus Two Science**\
 📆 2015 - 2017\
 📍 **CMS HSS Melukavu** - Melukavu, Kottayam, Kerala
 
-- 📖 **THSLC**\
-📆 2012 - 2015\
-📍 **Technical Higher Secondary School** - Muttom, Kerala
+- 📖 **&nbsp;THSLC**\
+📆 &nbsp;2012 - 2015\
+📍 **&nbsp;Technical Higher Secondary School** - Muttom, Kerala
 
 ## Volunteering
 
 <img align="right" width="50px" src="https://www.pngkey.com/png/full/247-2479287_nss-logo-national-service-scheme-logo-png.png" />
 
-- 👨‍💻 **Volunteer Secretary**\
-📆 2019 - 2020\
-📍 **National Service Scheme** - St.George's College Aruvithura, Kerala
+- 👨‍💻 **&nbsp;Volunteer Secretary**\
+📆 &nbsp;2019 - 2020\
+📍 **&nbsp;National Service Scheme** - St.George's College Aruvithura, Kerala
   
 ## Personal Projects
   
@@ -232,4 +232,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 #### To reach me: just send an email, a message on discord or telegram, all links are above!
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=itsmeshibintmz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
