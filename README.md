@@ -60,7 +60,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 - 💼 any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-🛠 **languages and tools:**  
+🛠 **&nbsp;languages and tools:**  
 
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/html.png"></code></t>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -77,7 +77,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <code><img height="20" src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
 ```text
@@ -118,7 +118,7 @@ XML        2 mins          █▒░░░░░░░░░░░░░░░�
   📫 How to reach me: <a href='mailto:josephthomas948@gmail.com'>josephthomas948@gmail.com</a>
 </p>
 
-### :muscle: Things I'm currently challenging myself with:
+### :muscle: &nbsp;Things I'm currently challenging myself with:
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
