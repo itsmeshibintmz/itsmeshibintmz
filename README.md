@@ -60,7 +60,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 - 💼 any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+🛠 **languages and tools:**  
 
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/html.png"></code></t>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -232,3 +232,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 #### To reach me: just send an email, a message on discord or telegram, all links are above!
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=itsmeshibintmz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
