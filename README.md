@@ -18,7 +18,7 @@ https://www.quora.com/profile/Shibin-Thomas-70)
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/itsme_shibintmz/">
-  <img align="left" alt="Shibin's YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/itsmeshibintmz">
   <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -128,7 +128,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ---
 
-### 📺 &nbsp; Latest YouTube Videos
+### <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />&nbsp; Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [NEED FOR SPEED PAYBACK | GAMEPLAY |  WALKTHROUGH PART 1 | 1 HR | HD](https://www.youtube.com/watch?v=v8cW5HnM9JQ)
