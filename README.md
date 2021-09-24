@@ -32,7 +32,9 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 <a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA">
   <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
-
+<a href="https://www.instagram.com/itsme_shibintmz/">
+  <img align="left" alt="Shibin's YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+</a>
 
 
 <br />
