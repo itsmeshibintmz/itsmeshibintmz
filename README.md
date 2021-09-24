@@ -128,7 +128,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ---
 
-### <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />&nbsp; Latest YouTube Videos
+### <img align="left" alt="Shibin's YouTube" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [NEED FOR SPEED PAYBACK | GAMEPLAY |  WALKTHROUGH PART 1 | 1 HR | HD](https://www.youtube.com/watch?v=v8cW5HnM9JQ)
