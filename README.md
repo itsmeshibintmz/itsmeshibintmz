@@ -114,10 +114,6 @@ XML        2 mins          █▒░░░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
 </p>
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:josephthomas948@gmail.com'>josephthomas948@gmail.com</a>
-</p>
-
 ### :muscle: &nbsp;Things I'm currently challenging myself with:
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
