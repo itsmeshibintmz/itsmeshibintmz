@@ -1,4 +1,4 @@
-# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz)
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
@@ -33,7 +33,7 @@ https://www.quora.com/profile/Shibin-Thomas-70)
   <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz)
+
 
 <br />
 </h1>
