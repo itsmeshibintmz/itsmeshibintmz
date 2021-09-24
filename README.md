@@ -142,7 +142,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ---
 
-📈 my github stats
+📈 &nbsp; my github stats
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="shibinthomas" /> 
   
