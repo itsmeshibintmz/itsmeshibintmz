@@ -92,7 +92,7 @@ XML        2 mins          █▒░░░░░░░░░░░░░░░�
 <br>
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  💻 &nbsp; My workspace<br/><br/>
   <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" />
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=flat&logo=windows&logoColor=white" />
   <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=flat&logo=intel&logoColor=white" />
@@ -103,7 +103,7 @@ XML        2 mins          █▒░░░░░░░░░░░░░░░�
 </p>
 
 <p align='center'>
-  ⚙️ Softwares I'm Familiar with :<br><br>
+  ⚙️ &nbsp; Softwares I'm Familiar with :<br><br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" />
