@@ -81,7 +81,9 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   12 mins         ██████████████▓░░░░░░░░░░   58.93 % 
+Text   7 mins          ████████▒░░░░░░░░░░░░░░░░   33.28 % 
+JSON   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
 <!--END_SECTION:waka-->
 
