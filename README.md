@@ -175,6 +175,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📆 2015 - 2017\
 📍 **CMS HSS Melukavu** - Melukavu, Kottayam, Kerala
 
+<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/ihrd.png" />
+
 - 📖 **&nbsp;THSLC**\
 📆 &nbsp;2012 - 2015\
 📍 **&nbsp;Technical Higher Secondary School** - Muttom, Kerala
