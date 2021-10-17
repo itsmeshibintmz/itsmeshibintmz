@@ -157,6 +157,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Education
 
+- 📖 **nbsp;Master of Computer Applications**\
+📆 &nbsp;2021-2023\
+📍 **nbsp;Rajiv Gandhi Institute of Technology, Kottayam** - Pampady, Kottayam, Kerala
+
 - 📖 **&nbsp;Bachelor of Computer Application**\
 📆 &nbsp;2018 - 2021\
 📍 **&nbsp;St.George's College Aruvithura** - Aruvithura, Kottayam, Kerala
