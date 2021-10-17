@@ -163,6 +163,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📆 &nbsp;2021-2023\
 📍 **nbsp;Rajiv Gandhi Institute of Technology, Kottayam** - Pampady, Kottayam, Kerala
 
+<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/sgc.png" />
+
 - 📖 **&nbsp;Bachelor of Computer Application**\
 📆 &nbsp;2018 - 2021\
 📍 **&nbsp;St.George's College Aruvithura** - Aruvithura, Kottayam, Kerala
