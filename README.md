@@ -157,6 +157,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Education
 
+<img align="right" width="50px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.rit.ac.in%2Fnewrit%2Fpublic&psig=AOvVaw2aWLvCHWLrhC_3QnArpPvW&ust=1634572106130000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMj18erl0fMCFQAAAAAdAAAAABAD" />
+
 - 📖 **nbsp;Master of Computer Applications**\
 📆 &nbsp;2021-2023\
 📍 **nbsp;Rajiv Gandhi Institute of Technology, Kottayam** - Pampady, Kottayam, Kerala
