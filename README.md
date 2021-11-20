@@ -81,10 +81,10 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 ```text
-C          1 hr 16 mins    ██████████░░░░░░░░░░░░░░░   40.59 % 
-HTML       1 hr 15 mins    ██████████░░░░░░░░░░░░░░░   40.38 % 
-Python     32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML       1 hr 16 mins    ██████████░░░░░░░░░░░░░░░   40.15 % 
+C          1 hr 16 mins    ██████████░░░░░░░░░░░░░░░   40.01 % 
+Python     34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->
 
