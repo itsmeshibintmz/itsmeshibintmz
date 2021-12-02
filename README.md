@@ -173,7 +173,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/cms.png" />
 
-- 📖 **&nsbp;Plus Two Science**\
+- 📖 **&nbsp;Plus Two Science**\
 📆 2015 - 2017\
 📍 **CMS HSS Melukavu** - Melukavu, Kottayam, Kerala
 
