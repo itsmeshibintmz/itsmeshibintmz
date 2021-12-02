@@ -27,7 +27,7 @@ https://www.quora.com/profile/Shibin-Thomas-70)
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561199031932477/"> 
-  <img align="left" #gh-light-mode-only alt="Steam" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/steam.svg" />
+  <img align="left" alt="Steam" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/steam.svg" />
 </a>
 <a href="https://open.spotify.com/user/cel9za9j8u6619mx74lmopapg">
   <img align="left" alt="Shibin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
