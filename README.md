@@ -81,11 +81,11 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 ```text
-C            54 mins         ██████████░░░░░░░░░░░░░░░   39.67 % 
-JavaScript   46 mins         ████████▓░░░░░░░░░░░░░░░░   34.35 % 
-HTML         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-CSS          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+JavaScript   56 mins         ████████░░░░░░░░░░░░░░░░░   32.54 % 
+C            54 mins         ████████░░░░░░░░░░░░░░░░░   31.34 % 
+HTML         42 mins         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+CSS          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Markdown     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 <!--END_SECTION:waka-->
 
