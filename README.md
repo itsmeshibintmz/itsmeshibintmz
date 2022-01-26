@@ -81,8 +81,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 ```text
-Other   11 mins         ████████████████████▓░░░░   82.99 % 
-JSON    2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Other   11 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
