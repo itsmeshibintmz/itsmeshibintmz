@@ -81,7 +81,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 min           ████████████████████████░   95.87 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
