@@ -81,7 +81,8 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 ```text
-Java       22 mins         █████████████████████████   99.83 % 
+Java       38 mins         ████████████▓░░░░░░░░░░░░   50.48 % 
+Text       37 mins         ████████████▒░░░░░░░░░░░░   49.47 % 
 ```
 <!--END_SECTION:waka-->
 
