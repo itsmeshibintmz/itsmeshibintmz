@@ -80,10 +80,11 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+
 ```text
-Java       38 mins         ████████████▓░░░░░░░░░░░░   50.48 % 
-Text       37 mins         ████████████▒░░░░░░░░░░░░   49.47 % 
+Text   5 mins          █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
