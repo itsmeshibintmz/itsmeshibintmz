@@ -56,7 +56,7 @@ i'm 22 years old, graduated with a degree in Bachelor of Computer Application at
 i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="itsmeshibintmz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/itsmeshibintmz?trk=profile-badge">Shibin Thomas</a></div>
+  <img align="left" alt="GIF" src="https://in.linkedin.com/in/itsmeshibintmz?trk=profile-badge" width="100" height="100/>
               
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :)
 - 💬 &nbsp; ask me about anything, i am happy to help;
