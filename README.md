@@ -82,7 +82,8 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   7 mins          ██████████████████████░░░   88.34 %
+Text     1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
 ```
 
 <!--END_SECTION:waka-->
