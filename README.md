@@ -82,8 +82,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-YAML       0 secs          ███████████████▒░░░░░░░░░   61.71 %
-Markdown   0 secs          █████████▓░░░░░░░░░░░░░░░   38.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
