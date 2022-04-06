@@ -82,8 +82,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-Python   7 mins          ██████████████████████░░░   88.34 %
-Text     1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+YAML   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
