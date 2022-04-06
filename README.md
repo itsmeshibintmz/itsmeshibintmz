@@ -17,7 +17,7 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.instagram.com/_cafe_phile_/">
+<a href="https://www.instagram.com/itsme_shibintmz/">
   <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/itsmeshibintmz">
