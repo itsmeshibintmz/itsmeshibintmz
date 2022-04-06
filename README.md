@@ -161,6 +161,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 - 📖 **&nbsp;Graduate Trainee**\
 📆 &nbsp;2021-Present\
 📍 **&nbsp;Tata Consultancy Services** - Infopark, Kochi, Kerala
+
+<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/ifix.webp" />
+
+- 📖 **&nbsp;Customer Service Assistant**\
+📆 &nbsp;2021-2021\
+📍 **&nbsp;Ifix Computers** - Palai, Kerala
 ## Education
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/rit.png" />
