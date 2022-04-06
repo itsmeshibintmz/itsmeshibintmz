@@ -154,7 +154,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <details>
   <summary>📃 &nbsp;Resume</summary>
 
+## Work Experience
 
+<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/tcs.svg" />
+
+- 📖 **&nbsp;Graduate Trainee**\
+📆 &nbsp;2021-Present\
+📍 **&nbsp;Tata Consultancy Services** - Infopark, Kochi, Kerala
 ## Education
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/rit.png" />
