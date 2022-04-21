@@ -100,7 +100,7 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
   <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=flat&logo=intel&logoColor=white" />
   <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat&logoColor=white" />
   <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white" />
-  <img alt="ssd" src="https://img.shields.io/badge/1.25%20TB%20SSD-grey?style=flat" />
+  <img alt="ssd" src="https://img.shields.io/badge/1.5%20TB%20SSD-grey?style=flat" />
   <img alt="hdd" src="https://img.shields.io/badge/1%20TB%20HDD-grey?style=flat" />
 </p>
 
