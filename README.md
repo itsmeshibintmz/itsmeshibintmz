@@ -128,11 +128,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ### 📺&nbsp; Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Shadow Of The Tomb Rider - Gameplay](https://www.youtube.com/watch?v=fidPw7JxubQ)
 - [GTA V ONLINE](https://www.youtube.com/watch?v=3Cfa4GA-ox4)
 - [GTA V ONLINE GAMEPLAY](https://www.youtube.com/watch?v=Y1tTX4ku8Cg)
 - [NFS HEAT FREE ROAM ONE NIGHT](https://www.youtube.com/watch?v=0vwZBWEy_bA)
 - [CREW 2 ONLINE GAMEPLAY](https://www.youtube.com/watch?v=OdV6aC4TIT4)
-- [Harddisk Spinning | Head Error](https://www.youtube.com/watch?v=9X1155qedQo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
