@@ -195,7 +195,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/itsmeshibintmz/github-readme-stats) 
+-->
+
+<a href="https://github.com/itsmeshibintmz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 <a href="https://github.com/itsmeshibintmz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&langs_count=3&title_color=FFFFFF&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Most%20%used%20%Languages" alt="Top Languages" /></a>
