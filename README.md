@@ -6,7 +6,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://www.github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Discord](https://img.shields.io/static/v1?label=Discord&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=flat&logo=discord&logoColor=white)](#)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=Shibin%20%Thomas&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=Shibin%20Thomas&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com)
 
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=flat)](https://www.youtube.com/c/ShibinThomas)
 [![HackerRank](https://img.shields.io/website?label=HackerRank&style=flat&url=https%3A%2F%2Fwww.hackerrank.com%2Fjosephthomas948)](https://www.hackerrank.com/josephthomas948)
