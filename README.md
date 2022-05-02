@@ -23,6 +23,7 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 <a href="https://twitter.com/itsmeshibintmz">
   <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.stackoverflow.com/users/yty" target="_blank" rel="noreferrer" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" /></a>
 <a href="https://www.linkedin.com/in/shibin-thomas-343615206">
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -35,7 +36,6 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 <a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA">
   <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
 </a>
-<a href="https://www.stackoverflow.com/users/yty" target="_blank" rel="noreferrer" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px"  /></a>
 
 
 <br />
