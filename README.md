@@ -63,11 +63,11 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 🛠 **&nbsp;languages and tools:**  
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="20" alt="HTML5" /></a>
-
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="20" alt="CSS3" /></a>
 <!-- 
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/html.png"></code></t>
 -->
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="20" alt="CSS3" /></a>
+
 
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
