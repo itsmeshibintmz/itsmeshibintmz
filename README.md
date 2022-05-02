@@ -65,6 +65,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="20" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="20" alt="CSS3" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="20" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="20" alt="Java" /></a>
 <!-- 
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/html.png"></code></t>
 -->
@@ -77,7 +78,10 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"></code>
 -->
 
+<!--
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/java.png"></code>
+-->
+
 <code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"></code>
 <code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"></code>
