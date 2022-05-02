@@ -14,7 +14,7 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://stackoverflow.com/users/11188203/shibin-thomas" target="_blank" rel="noreferrer" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" />
+<a href="https://stackoverflow.com/users/11188203/shibin-thomas" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
 </a>
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
