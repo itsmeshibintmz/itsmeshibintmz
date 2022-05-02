@@ -3,7 +3,7 @@
 <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-[![Github](https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/itsmeshibintmz)
+[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Discord](https://img.shields.io/static/v1?label=Discord&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=flat&logo=discord&logoColor=white)](#)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=ShibinThomas&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com)
