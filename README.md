@@ -140,7 +140,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 &nbsp; my github stats
 
-<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="shibinthomas" />  <a href="https://github.com/itsmeshibintmz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&langs_count=3&title_color=FFFFFF&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="shibinthomas" />  <a href="https://github.com/itsmeshibintmz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&langs_count=3&title_color=FFFFFF&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/itsmeshibintmz/github-readme-stats) 
