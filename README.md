@@ -14,8 +14,6 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://stackoverflow.com/users/11188203/shibin-thomas" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
-</a>
 <a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -24,6 +22,8 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 </a>
 <a href="https://twitter.com/itsmeshibintmz">
   <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://stackoverflow.com/users/11188203/shibin-thomas" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
 </a>
 <a href="https://www.linkedin.com/in/shibin-thomas-343615206">
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
