@@ -1,6 +1,9 @@
 # Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz)
 
-[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/itsmeshibintmz)
+<a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+[![Github](https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Discord](https://img.shields.io/static/v1?label=Discord&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=flat&logo=discord&logoColor=white)](#)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=ShibinThomas&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com)
@@ -196,9 +199,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/itsmeshibintmz/github-readme-stats) 
-
-<a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <!--
 <a href="https://github.com/itsmeshibintmz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
