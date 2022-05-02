@@ -69,6 +69,9 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="20" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="20" alt="C++" /></a>
 <a href="https://avatars.githubusercontent.com/u/9919?s=200&v=4" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" height="20" alt="github" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="20" alt="React" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="20" alt="PHP" /></a>
+
 <!-- 
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/html.png"></code></t>
 -->
@@ -90,9 +93,18 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"></code>
 -->
 
+<!--
 <code><img height="20" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"></code>
+-->
+
+<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+-->
+
+<!--
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/php.png"></code>
+-->
+
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
