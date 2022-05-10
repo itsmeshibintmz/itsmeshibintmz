@@ -136,10 +136,8 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     24 mins         ██████████▒░░░░░░░░░░░░░░   40.95 %
-YAML         22 mins         █████████▒░░░░░░░░░░░░░░░   36.73 %
-HTML         10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
-JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+YAML       22 mins         ██████████████████████▒░░   89.39 %
+Markdown   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
 ```
 
 <!--END_SECTION:waka-->
