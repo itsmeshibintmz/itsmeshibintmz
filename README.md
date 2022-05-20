@@ -59,7 +59,8 @@ i'm 22 years old, graduated with a degree in Bachelor of Computer Application at
 
 i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
+
+  <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
               
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :)
 - 💬 &nbsp; ask me about anything, i am happy to help;
