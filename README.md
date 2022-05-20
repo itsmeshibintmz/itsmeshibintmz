@@ -1,10 +1,9 @@
 # Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
 
-<!-- ![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
+![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
--->
 
-<!-- [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge&logo=github)](https://www.github.com/itsmeshibintmz)
+[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge&logo=github)](https://www.github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Shibin%20Thomas&color=555555&style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com) 
@@ -15,7 +14,6 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 [![Quora Follow](https://img.shields.io/website?label=Quora&style=for-the-badge&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FShibin-Thomas-70)](
 https://www.quora.com/profile/Shibin-Thomas-70)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
--->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -61,7 +59,7 @@ i'm 22 years old, graduated with a degree in Bachelor of Computer Application at
 
 i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="center" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
               
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :)
 - 💬 &nbsp; ask me about anything, i am happy to help;
