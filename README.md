@@ -178,7 +178,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
-📈 &nbsp; my github stats
+📈 &nbsp; My Github Stats
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> 
 
