@@ -75,7 +75,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :) 
 - 💬 &nbsp; ask me about anything, i am happy to help;
 
-🛠 **&nbsp;languages and tools:** 
+# 🛠 **&nbsp;languages and tools:** 
 <br>
 <i>Tools, languages, and other things that I like to work with.</i> 
 
