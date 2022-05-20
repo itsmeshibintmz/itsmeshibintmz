@@ -84,8 +84,8 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50" alt="HTML5" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" alt="Java" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="50" alt="MySQL" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" height="50" alt="git" /></a>
 <a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" height="50" alt="githubdesktop" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/git-icon/git-icon-10.jpg" height="50" alt="git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="50" alt="vscode" /></a>
 
 <!--
@@ -142,23 +142,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 -->
-
-📊 **&nbsp;this week i spent my time on:** 
-
-<!--START_SECTION:waka-->
-
-```text
-Markdown   1 hr 50 mins    ██████████████████████▓░░   90.94 %
-YAML       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-CSS        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
-<br>
-<br>
 <br>
 
 <p align='center'>
@@ -188,6 +171,18 @@ CSS        0 secs          ▒░░░░░░░░░░░░░░░░�
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
+📊 **&nbsp;this week i spent my time on:** 
+
+<!--START_SECTION:waka-->
+
+```text
+Markdown   1 hr 50 mins    ██████████████████████▓░░   90.94 %
+YAML       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+CSS        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+```
+
+<!--END_SECTION:waka-->
+
 ### Support Me
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -200,7 +195,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/itsmeshibintmz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 -->
-
 ---
 
 ### 📺&nbsp; Latest YouTube Videos
