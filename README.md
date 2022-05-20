@@ -61,8 +61,8 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <img
   align="right"
-  width="100"
-  height="100"
+  width="50"
+  height="50"
   src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" />
 
 
