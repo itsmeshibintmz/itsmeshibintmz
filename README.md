@@ -344,5 +344,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
 </details>
 
-#### To reach me: just send an email, a message on discord or telegram, all links are above!
+#### To reach me: just send an email, or a message on discord , all links are above!
 
