@@ -59,8 +59,13 @@ i'm 22 years old, graduated with a degree in Bachelor of Computer Application at
 
 i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<p align="right">
-  <img width="500" height="320" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif">
+<img
+  align="right"
+  width="100"
+  height="100"
+  src="https://picsum.photos/100/100"
+>
+
 
 <!--  <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
 -->
@@ -118,8 +123,6 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="20" alt="MySQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="20" alt="git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="20" alt="vscode" /></a>
-
-</p>
 
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
