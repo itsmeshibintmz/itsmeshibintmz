@@ -76,7 +76,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - 💬 &nbsp; ask me about anything, i am happy to help;
 
 # 🛠 **&nbsp;languages and tools:** 
-<br>
 <i>Tools, languages, and other things that I like to work with.</i> 
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="20" alt="C" /></a>
