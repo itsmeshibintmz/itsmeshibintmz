@@ -169,7 +169,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
-# 📊 **&nbsp;this week i spent my time on:** 
+📊 **&nbsp;this week i spent my time on:** 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -178,7 +178,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
-# 📈 &nbsp; my github stats
+📈 &nbsp; my github stats
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> 
 
