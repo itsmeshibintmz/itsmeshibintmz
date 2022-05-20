@@ -3,14 +3,24 @@
 ![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://www.github.com/itsmeshibintmz)
+<!-- 
+  [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://www.github.com/itsmeshibintmz)  
+-->
+
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=flat&logo=discord&logoColor=white)](#)
-[![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Shibin%20Thomas&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com) 
+
+<!-- 
+  [![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Shibin%20Thomas&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com) 
+-->
 
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=flat)](https://www.youtube.com/c/ShibinThomas)
-[![HackerRank](https://img.shields.io/website?label=HackerRank&style=flat&url=https%3A%2F%2Fwww.hackerrank.com%2Fjosephthomas948)](https://www.hackerrank.com/josephthomas948)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@cafephile)
+
+<!-- 
+  [![HackerRank](https://img.shields.io/website?label=HackerRank&style=flat&url=https%3A%2F%2Fwww.hackerrank.com%2Fjosephthomas948)](https://www.hackerrank.com/josephthomas948)
+  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@cafephile)
+-->
+
 [![Quora Follow](https://img.shields.io/website?label=Quora&style=flat&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FShibin-Thomas-70)](
 https://www.quora.com/profile/Shibin-Thomas-70)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
