@@ -58,7 +58,7 @@ hi, i'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-ta
 i'm 22 years old, graduated with a degree in Bachelor of Computer Application at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09").
 
 i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-<br>
+
 <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
               
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :)
