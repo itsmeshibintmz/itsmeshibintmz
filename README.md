@@ -312,14 +312,16 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Operating Systems
 <br>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white" />
-<img src="https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<!--
+  <img src="https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white" />
+-->
 <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white" />
 
 
