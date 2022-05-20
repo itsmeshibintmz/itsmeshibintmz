@@ -322,7 +322,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white" /> 
   <img src="https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white" />
 -->
-<img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 
 </details>
