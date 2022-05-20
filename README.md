@@ -131,17 +131,20 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 -->
 
-📊 **&nbsp;this week i spent my time on:**
+<!-- 📊 **&nbsp;this week i spent my time on:** -->
 
 <!--START_SECTION:waka-->
+<!--
 
 ```text
 Markdown   1 hr 50 mins    ██████████████████████▓░░   90.94 %
 YAML       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
 CSS        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
-
+-->
 <!--END_SECTION:waka-->
+
+
 
 <br>
 <br>
