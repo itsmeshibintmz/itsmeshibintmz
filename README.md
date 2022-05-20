@@ -59,7 +59,9 @@ i'm 22 years old, graduated with a degree in Bachelor of Computer Application at
 
 i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img style="float: right;" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320">
+<p align="right">
+  <img width="500" height="320" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif">
+</p>
 
 <!--  <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
 -->
