@@ -61,7 +61,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <p align="right">
   <img width="500" height="320" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif">
-</p>
+
 
 <!--  <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/code.gif" width="500" height="320" />
 -->
@@ -152,6 +152,8 @@ CSS        0 secs          ▒░░░░░░░░░░░░░░░░�
 <br>
 <br>
 <br>
+
+</p>
 
 <p align='center'>
   💻 &nbsp; My workspace<br/><br/>
