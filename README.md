@@ -75,7 +75,8 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :) 
 - 💬 &nbsp; ask me about anything, i am happy to help;
 
-🛠 **&nbsp;languages and tools:**  
+🛠 **&nbsp;languages and tools:** 
+<i>Tools, languages, and other things that I like to work with.</i> 
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="20" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="20" alt="C++" /></a>
