@@ -4,7 +4,7 @@
 src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 -->
 
-[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge&logo=github)](https://www.github.com/itsmeshibintmz)
+<!-- [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge&logo=github)](https://www.github.com/itsmeshibintmz)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Shibin%20Thomas&color=555555&style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com) 
@@ -15,6 +15,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 [![Quora Follow](https://img.shields.io/website?label=Quora&style=for-the-badge&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FShibin-Thomas-70)](
 https://www.quora.com/profile/Shibin-Thomas-70)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmeshibintmz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=itsmeshibintmz)
+-->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
