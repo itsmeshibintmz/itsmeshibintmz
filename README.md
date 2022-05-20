@@ -159,7 +159,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   ⚙️ &nbsp; Softwares I'm Familiar with :<br><br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
-<!-->
+<!--
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
 -->
