@@ -293,12 +293,14 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<!--
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+-->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
 <br>
 
 ## Operating Systems
