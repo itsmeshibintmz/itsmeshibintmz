@@ -9,11 +9,9 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=flat&logo=discord&logoColor=white)](#)
-
 <!-- 
   [![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Shibin%20Thomas&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com) 
 -->
-
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=flat)](https://www.youtube.com/c/ShibinThomas)
 
 <!-- 
