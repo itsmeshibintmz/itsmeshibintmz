@@ -145,7 +145,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <br>
 
 <p align='center'>
-  💻 &nbsp; My workspace<br/><br/>
+   &nbsp; <h3>💻 My workspace<h3><br/><br/>
   <!-- <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" /> -->
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
