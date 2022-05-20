@@ -169,21 +169,14 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
-### :muscle: &nbsp;Things I'm currently challenging myself with:
-- Code exercises everyday!
-- Trying to wake up earlier to make good use of the day
-
 📊 **&nbsp;this week i spent my time on:** 
 
 <!--START_SECTION:waka-->
-
-```text
-Markdown   1 hr 50 mins    ██████████████████████▓░░   90.94 %
-YAML       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-CSS        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-```
-
 <!--END_SECTION:waka-->
+
+### :muscle: &nbsp;Things I'm currently challenging myself with:
+- Code exercises everyday!
+- Trying to wake up earlier to make good use of the day
 
 ### Support Me
 
