@@ -187,7 +187,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 - Trying to wake up earlier to make good use of the day
 
 📈 &nbsp; My Github Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&theme=darkhub" alt="itsmeshibintmz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&theme=oldie" alt="itsmeshibintmz" /></a> </p>
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> 
 
