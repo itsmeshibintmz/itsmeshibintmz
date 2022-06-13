@@ -1,4 +1,4 @@
-# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25px> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
+# Hi, I'm Shibin <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/3fVpJsgBeGHCgxvxrX/giphy.gif)" width=25px> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
