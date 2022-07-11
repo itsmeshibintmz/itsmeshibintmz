@@ -174,7 +174,8 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java   1 hr 59 mins    ████████████████████████▓   98.69 %
+HTML   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
