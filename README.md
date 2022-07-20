@@ -157,7 +157,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 </p>
 
 <p align='center'>
-  ⚙️ &nbsp; Softwares I'm Familiar with :<br><br>
+  ⚙️ &nbsp;Softwares I'm Familiar with :<br><br>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
