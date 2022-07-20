@@ -1,4 +1,4 @@
-# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
+# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default) 
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -343,8 +343,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=itsmeshibintmz'>
   </a>
 </details>
-<center>
 
-![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
-
-#### To reach me: just send an email, or a message on discord , all links are above!
+#### To reach me: just send an email, or a message on discord , all links are above! 
