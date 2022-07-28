@@ -185,10 +185,6 @@ YAML       0 secs          ▒░░░░░░░░░░░░░░░░�
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
-### Now Playing 🎧
-
-[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/cel9za9j8u6619mx74lmopapg)
-
 📈 &nbsp; My Github Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="itsmeshibintmz" /></a> </p>
 
