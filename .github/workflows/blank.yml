@@ -3,7 +3,7 @@ name: snake game from a github user contributions graph
 on:
   # run automatically at 0 o'clock
   schedule:
-    - cron: "/*5 * * * * " 
+    - cron: "0 0 * * * " 
   
   # allows to manually run the job at any time
   workflow_dispatch:
