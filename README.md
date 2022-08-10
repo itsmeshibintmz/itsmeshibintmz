@@ -175,12 +175,12 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-PHP          8 mins          ████████▓░░░░░░░░░░░░░░░░   35.33 %
-Markdown     7 mins          ████████░░░░░░░░░░░░░░░░░   32.04 %
-JSON         6 mins          ███████░░░░░░░░░░░░░░░░░░   28.48 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+PHP          20 mins         ██████████████░░░░░░░░░░░   55.40 %
+Markdown     8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+JSON         6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+SQL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
