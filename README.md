@@ -381,3 +381,8 @@ Profile Views
 </details>
 
 #### To reach me: just send an email, or a message on discord , all links are above! 
+
+<h1 align="center">
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+</h1>
