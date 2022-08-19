@@ -17,6 +17,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 -->
 
 <!-- Social Media Center
+-------------------------
 
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/shibin*23#9991)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itsme_shibintmz/)
@@ -158,7 +159,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <br>
 
 <p align='center'>
-  💻 &nbsp;My workspace<br/><br/>
+  💻 &nbsp;<b>My workspace</b><br/><br/>
   <!-- <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" /> -->
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
