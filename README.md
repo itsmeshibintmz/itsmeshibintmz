@@ -159,7 +159,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <br>
 
 <p align='center'>
-  💻 &nbsp;<b>My workspace</b><br/><br/>
+  💻&nbsp;<b>My workspace</b><br/><br/>
   <!-- <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" /> -->
   <img alt="laptop" src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -167,11 +167,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   <img alt="ram" src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img alt="ssd" src="https://img.shields.io/badge/1.5%20TB%20SSD-black?style=for-the-badge" />
-  <img alt="hdd" src="https://img.shields.io/badge/1%20TB%20HDD-grey?style=for-the-badge" />
+  <img alt="hdd" src="https://img.shields.io/badge/1%20TB%20HDD-black?style=for-the-badge" />
 </p>
 
 <p align='center'>
-  ⚙️ &nbsp;<b>Softwares I'm Familiar with :</b><br><br>
+  ⚙️&nbsp;<b>Softwares I'm Familiar with :</b><br><br>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
