@@ -161,6 +161,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <p align='center'>
   💻 &nbsp;<b>My workspace</b><br/><br/>
   <!-- <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" /> -->
+  <img alt="laptop" src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white"
   <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img alt="ram" src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
