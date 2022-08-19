@@ -10,11 +10,13 @@
 # Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> --> <!-- ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default) -->
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=for-the-badge)](https://www.youtube.com/c/ShibinThomas)
 
 <!-- 
   [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://www.github.com/itsmeshibintmz)  
 -->
+
+<!-- Social Media Center
 
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/shibin*23#9991)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itsme_shibintmz/)
@@ -22,7 +24,8 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-thomas-343615206/)
 [![Quora Follow](https://img.shields.io/website?label=Quora&style=flat&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FShibin-Thomas-70)](
 https://www.quora.com/profile/Shibin-Thomas-70)
-[![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=flat)](https://www.youtube.com/c/ShibinThomas)
+
+-->
 
 <!-- 
   [![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Shibin%20Thomas&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:josephthomas948@gmail.com) 
