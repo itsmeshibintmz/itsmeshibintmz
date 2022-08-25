@@ -191,8 +191,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-Markdown    52 mins         ████████████████████████▒   97.92 %
-Terraform   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Markdown   52 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
