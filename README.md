@@ -105,7 +105,7 @@ Markdown   13 mins         █████████████████�
 
 <!--END_SECTION:waka-->
 
-### :muscle: &nbsp;Things I'm currently challenging myself with:
+### :muscle:&nbsp;Things I'm currently challenging myself with:
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
