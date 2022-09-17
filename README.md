@@ -109,7 +109,7 @@ Markdown   13 mins         █████████████████�
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
-### 📈&nbsp; My Github Stats
+### 📈&nbsp;My Github Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="itsmeshibintmz" /></a> </p>
 
 <details>
@@ -119,7 +119,7 @@ Markdown   13 mins         █████████████████�
 
 </details>
 
-📺&nbsp; Latest YouTube Videos
+📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Shadow Of The Tomb Rider - Gameplay](https://www.youtube.com/watch?v=fidPw7JxubQ)
