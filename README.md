@@ -100,11 +100,12 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-PHP        2 hrs 4 mins    ██████████████████▓░░░░░░   74.94 %
-HTML       35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
-SQL        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+PHP          2 hrs 13 mins   ██████████▓░░░░░░░░░░░░░░   43.30 %
+Python       2 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.61 %
+HTML         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
