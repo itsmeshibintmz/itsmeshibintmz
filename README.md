@@ -125,11 +125,11 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Uncharted - A Thief&#39;s End PC Walkthrough - No Commentary - Part 1](https://www.youtube.com/watch?v=8QpP_KPBxEs)
+- [Uncharted 4 - A Thief&#39;s End PC Walkthrough - No Commentary - Part 2](https://www.youtube.com/watch?v=rMJAC-KDhWg)
+- [Uncharted 4 - A Thief&#39;s End PC Walkthrough - No Commentary - Part 1](https://www.youtube.com/watch?v=8QpP_KPBxEs)
 - [Shadow Of The Tomb Rider - Gameplay](https://www.youtube.com/watch?v=fidPw7JxubQ)
 - [GTA V ONLINE](https://www.youtube.com/watch?v=3Cfa4GA-ox4)
 - [GTA V ONLINE GAMEPLAY](https://www.youtube.com/watch?v=Y1tTX4ku8Cg)
-- [Need For Speed HEAT Walkthrough Gameplay](https://www.youtube.com/watch?v=0vwZBWEy_bA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
