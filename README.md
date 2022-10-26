@@ -100,9 +100,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 9 mins     ████████████████▒░░░░░░░░   65.41 %
-YAML       36 mins         ████████▓░░░░░░░░░░░░░░░░   34.45 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
