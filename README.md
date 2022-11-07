@@ -122,11 +122,11 @@ No activity tracked
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Remains of Edith Finch - Part 1 Walkthrough](https://www.youtube.com/watch?v=83XUlgKRbHE)
 - [Uncharted 4 - A Thief&#39;s End PC Walthrough - No Commentary - Part 3](https://www.youtube.com/watch?v=Alf0Ly9hu-Y)
 - [Uncharted 4 - A Thief&#39;s End PC Walkthrough - No Commentary - Part 2](https://www.youtube.com/watch?v=rMJAC-KDhWg)
 - [Uncharted 4 - A Thief&#39;s End PC Walkthrough - No Commentary - Part 1](https://www.youtube.com/watch?v=8QpP_KPBxEs)
 - [Shadow Of The Tomb Rider - Gameplay](https://www.youtube.com/watch?v=fidPw7JxubQ)
-- [GTA V ONLINE](https://www.youtube.com/watch?v=3Cfa4GA-ox4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
