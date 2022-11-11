@@ -123,11 +123,11 @@ Python   0 secs          ████░░░░░░░░░░░░░░�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cyberpunk 2077 Gameplay](https://www.youtube.com/watch?v=RgqaG0ea9e4)
 - [What Remains of Edith Finch Full Walkthrough Live Gameplay](https://www.youtube.com/watch?v=qrp69UIlFAg)
 - [CyberPunk 2077 Gameplay Live](https://www.youtube.com/watch?v=KStwFe3wLjs)
 - [What Remains of Edith Finch - Part 1 Walkthrough](https://www.youtube.com/watch?v=83XUlgKRbHE)
 - [Uncharted 4 - A Thief&#39;s End PC Walthrough - No Commentary - Part 3](https://www.youtube.com/watch?v=Alf0Ly9hu-Y)
-- [Uncharted 4 - A Thief&#39;s End PC Walkthrough - No Commentary - Part 2](https://www.youtube.com/watch?v=rMJAC-KDhWg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
