@@ -117,7 +117,13 @@ Markdown   1 min           ▒░░░░░░░░░░░░░░░░�
 <details>
   <summary><b>📈 Stats</b> </summary>
 
-  <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+  <a href="https://github.com/itsmeshibintmz">
+    <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz&cc=000000&tc=FFFFFF&ic=fff&bc=0000">
+  </a>
+
+  <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" />
+  
+  <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </details>
 
