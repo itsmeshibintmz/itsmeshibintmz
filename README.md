@@ -100,9 +100,10 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 30 mins    ███████████████████████▒░   93.02 %
-JSON       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Python     1 hr 38 mins    ████████████████▓░░░░░░░░   66.49 %
+PHP        33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+Markdown   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+JSON       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
