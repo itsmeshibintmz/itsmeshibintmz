@@ -48,12 +48,13 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 
-Hi, I'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Shibin Thomas](https://itsmeshibintmz.github.io/), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I'm 23 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). 
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-              
+
+- 📃 &nbsp; [About Me](https://itsmeshibintmz.github.io/)
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :) 
 - 💬 &nbsp; ask me about anything, i am happy to help;
 
