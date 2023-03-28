@@ -101,7 +101,8 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   1 hr 11 mins    ██████████████▒░░░░░░░░░░   57.02 %
+HTML       53 mins         ██████████▓░░░░░░░░░░░░░░   42.98 %
 ```
 
 <!--END_SECTION:waka-->
