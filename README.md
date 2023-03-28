@@ -147,8 +147,9 @@ if you like what i do, maybe consider buying me a coffee/tea 👉☕👈
 
 <details>
   <summary>📃 &nbsp;Resume</summary>
+<br>
 
-<p><a href="https://drive.google.com/file/d/1A2nS9Gbk84ct2Qm_HLC1Y-wAD5sVpKnw/view?usp=share_link" target="_blank" download class="btn btn-primary py-3 px-3">Resume</a></p>
+<a href="https://drive.google.com/file/d/1A2nS9Gbk84ct2Qm_HLC1Y-wAD5sVpKnw/view?usp=share_link" target="_blank" download class="btn btn-primary py-3 px-3"><img src="https://img.shields.io/badge/Resume-330D3E?style=for-the-badge&logo=Resume&logoColor=white" /></a>
 
 ## Personal Projects
   
