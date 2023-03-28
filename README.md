@@ -119,8 +119,6 @@ No activity tracked
   <a href="https://github.com/itsmeshibintmz">
     <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz&cc=000000&tc=FFFFFF&ic=fff&bc=0000">
   </a>
-
-  <!--- <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> --> 
   
   <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -138,9 +136,6 @@ No activity tracked
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
-<!--
-  ---
--->
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
 if you like what i do, maybe consider buying me a coffee/tea 👉☕👈
@@ -149,14 +144,6 @@ if you like what i do, maybe consider buying me a coffee/tea 👉☕👈
   
 ## Contribution Graph
 [![Shibin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsmeshibintmz&theme=high-contrast&custom_title=Shibin%20Thomas's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--
-  <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
-
-<br/>
--->
 
 <details>
   <summary>📃 &nbsp;Resume</summary>
