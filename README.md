@@ -100,7 +100,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
