@@ -101,7 +101,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown         35 mins         █████████████▓░░░░░░░░░░░   54.67 %
+Kotlin           22 mins         ████████▒░░░░░░░░░░░░░░░░   33.85 %
+YAML             7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
