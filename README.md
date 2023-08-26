@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
+<a href="https://discordapp.com/channels/@me/shibin23#9991/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/itsme_shibintmz/">
