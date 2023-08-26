@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 
 Hi, I'm [Shibin Thomas](https://itsmeshibintmz.github.io/), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm 23 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). 
+I'm 24 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). I currently work at Tata Consultancy Services as a Java Software Developer since 2021.
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
