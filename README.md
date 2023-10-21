@@ -101,8 +101,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   32 mins         ████████████████████████░   95.80 %
-CSS    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+HTML   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
