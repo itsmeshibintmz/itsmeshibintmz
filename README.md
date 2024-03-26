@@ -101,8 +101,9 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```txt
-Python   20 mins         ████████████████▓░░░░░░░░   66.07 %
-HTML     10 mins         ████████▒░░░░░░░░░░░░░░░░   33.93 %
+Python       22 mins         ███████████████▓░░░░░░░░░   62.49 %
+HTML         13 mins         █████████▒░░░░░░░░░░░░░░░   37.31 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
