@@ -129,11 +129,11 @@ JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NFS Most Wanted Blacklist Edition 2005 Full Gameplay Walkthrough](https://www.youtube.com/watch?v=BZsb3Y5PLok)
 - [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=TOtAce1lQz0)
 - [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=pvUiNIojf1Y)
+- [Hogwarts Legacy | Gameplay Walkthrough | Part 1](https://www.youtube.com/watch?v=Wz0Sdn5OSlw)
 - [What Remains of Edith Finch Full Walkthrough Live Gameplay](https://www.youtube.com/watch?v=qrp69UIlFAg)
-- [Harddisk Spinning | Head Error](https://www.youtube.com/watch?v=9X1155qedQo)
-- [How to Change Lockscreen Wallpaper Mac OS](https://www.youtube.com/watch?v=RBwx7--MaVQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
