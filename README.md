@@ -127,11 +127,11 @@ No activity tracked
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Need For Speed Most Wanted - Black Edition Gameplay](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 - [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 - [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=TOtAce1lQz0)
 - [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=pvUiNIojf1Y)
 - [Hogwarts Legacy | Gameplay Walkthrough | Part 1](https://www.youtube.com/watch?v=Wz0Sdn5OSlw)
-- [Cyberpunk 2077 Gameplay](https://www.youtube.com/watch?v=RgqaG0ea9e4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
