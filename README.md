@@ -77,10 +77,10 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   💻&nbsp;<b>My workspace</b><br/><br/>
   <img alt="laptop" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-  <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img alt="ram" src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img alt="ssd" src="https://img.shields.io/badge/1.5%20TB%20SSD-black?style=for-the-badge" />
+  <!-- <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> -->
+  <img alt="ram" src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <!-- <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> -->
+  <img alt="ssd" src="https://img.shields.io/badge/256%20GB%20SSD-black?style=for-the-badge" />
   <img alt="hdd" src="https://img.shields.io/badge/1%20TB%20HDD-black?style=for-the-badge" />
 </p>
 
