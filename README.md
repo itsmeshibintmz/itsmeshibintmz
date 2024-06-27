@@ -199,5 +199,5 @@ if you like what i do, maybe consider buying me a coffee/tea 👉☕👈
 
 <h1 align="center">
 
-![Made with love in India](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vfffq&psig=AOvVaw1keme7TxrZ574zTyzdcrFh&ust=1719538562815000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCgnr7S-oYDFQAAAAAdAAAAABAJ)
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 </h1>
