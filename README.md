@@ -197,7 +197,7 @@ if you like what i do, maybe consider buying me a coffee/tea 👉☕👈
 
 #### To reach me: just send an email, or a message on discord , all links are above! 
 
-<h1 align="center">
+<h6 align="center">
 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-</h1>
+Made with <img src="https://avatars.githubusercontent.com/u/67188469?s=10&v=4"> in India by Shibin Thomas
+</h6>
