@@ -50,8 +50,6 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 
 Hi, I'm [Shibin Thomas](https://itsmeshibintmz.github.io/), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-https://software.download.prss.microsoft.com/dbazure/Windows11_InsiderPreview_Client_ARM64_en-us_22598.VHDX?t=0f197a04-b384-408d-8d57-a48e9f77b35f&P1=1722026360&P2=601&P3=2&P4=lGzUyRHHGO%2b3Owgi2m2Blh0V0Mtc6lVDnbtY9%2bbzB1uLGJvD7EPn4Iw8iEGXjGHWjS2cENVnBsyLRhWHiSzpNXcPPBxpqcYpzvzsw6AGrJby0s6jZHiXs8jF9YnZFbN6uKVXuL%2fhCfsbbWSXVg1HDNVCJW1FE6chvsj%2fZUDUYQNekHwegpqsUYJx5n6GY35wjRX4lQhnc99JCgAhkm9vxoldDJ0NfZhXKeNPkr%2fUEoRRji6ppSMkaH2npW0TKw5q%2fZ1RKRY32bBPq0n0%2b3WQp38SXNCN6IrCct5vpivg7UFkzQU3l0QmUw7NYa3DMGaFvcIqmYy20IcGaoMhoVqlfg%3d%3d
-
 I'm 25 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). I currently work at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
