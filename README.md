@@ -50,9 +50,9 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 
 Hi, I'm [Shibin Thomas](https://itsmeshibintmz.github.io/), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm 25 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). I currently work at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
+I'm 26 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). I have been working at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
 
-I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I'm also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
 - 📃 &nbsp; [About Me](https://itsmeshibintmz.github.io/)
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :) 
@@ -107,7 +107,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
-- Code exercises everyday!
+- Code exercises every day!
 - Trying to wake up earlier to make good use of the day
 
 ### 📈&nbsp;My Github Stats
@@ -138,7 +138,7 @@ No activity tracked
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
-if you like what i do, maybe consider buying me a coffee/tea 👉☕👈
+If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
 
 <a href="https://www.buymeacoffee.com/itsmeshibintmz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
