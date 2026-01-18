@@ -125,7 +125,9 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
     <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz">
   </a>
   
-  <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <!-- <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+
+<a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeshibintmz&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 </details>
 
