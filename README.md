@@ -122,7 +122,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
   <summary><b>📈 Stats</b> </summary>
 
   <a href="https://github.com/itsmeshibintmz">
-    <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz&cc=000000&tc=FFFFFF&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz">
   </a>
   
   <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
