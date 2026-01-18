@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
   <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/cel9za9j8u6619mx74lmopapg">
-  <img align="left" alt="Shibin's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
+  <img align="left" alt="Shibin's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/spotify.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shibin-thomas-343615206">
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/linkedin.svg" />
