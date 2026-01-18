@@ -115,6 +115,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ### 📈&nbsp;My Github Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=itsmeshibintmz&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="itsmeshibintmz" /></a> </p>
 
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=itsmeshibintmz&column=3&margin-w=15&margin-h=15&theme=dracula" 
+
 <details>
   <summary><b>📈 Stats</b> </summary>
 
