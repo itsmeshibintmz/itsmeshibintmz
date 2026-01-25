@@ -104,8 +104,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 22 mins    ███████████████████████▒░   93.15 %
-Markdown     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
