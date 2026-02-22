@@ -104,7 +104,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         23 mins         ████████▓░░░░░░░░░░░░░░░░   34.77 %
+Other        17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+Markdown     15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+TSConfig     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Dart         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
