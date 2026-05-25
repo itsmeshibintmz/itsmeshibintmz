@@ -104,8 +104,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   1 min           ███████████████████████▓░   94.36 %
-Java   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+JSON   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
