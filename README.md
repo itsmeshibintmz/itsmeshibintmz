@@ -105,7 +105,9 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   1 min           █████████████████████████   100.00 %
+JSON         1 min           █████████████████▓░░░░░░░   71.09 %
+TypeScript   0 secs          ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
