@@ -124,9 +124,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 </details>
 
 📺&nbsp;Latest YouTube Videos
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 

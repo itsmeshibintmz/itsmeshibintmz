@@ -30,7 +30,8 @@ jobs:
           
       - name: Inject waka markers into README
         run: |
-          sed -i 's/📊 \*\*\&nbsp;this week i spent my time on:\*\*/📊 **\&nbsp;this week i spent my time on:**\n\n<!--START_SECTION:waka-->\n<!--END_SECTION:waka-->/' README.md    
+          sed -i 's/📊 \*\*\&nbsp;this week i spent my time on:\*\*/📊 **\&nbsp;this week i spent my time on:**\n\n<!--START_SECTION:waka-->\n<!--END_SECTION:waka-->/' README.md
+          sed -i 's/📺\&nbsp;Latest YouTube Videos/📺\&nbsp;Latest YouTube Videos\n\n<!-- YOUTUBE:START -->\n<!-- YOUTUBE:END -->/' README.md
       - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
         with:
           commit_message: 'Update generated README'
