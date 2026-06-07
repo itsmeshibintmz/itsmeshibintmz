@@ -100,10 +100,26 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
-📊 **&nbsp;this week i spent my time on:** 
-&lt;&gt;
+📊 **&nbsp;this week i spent my time on:**
 
-&lt;
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka--> 
+
+### :muscle:&nbsp;Things I'm currently challenging myself with:
+- Code exercises every day!
+- Trying to wake up earlier to make good use of the day
+
+### 📈&nbsp;My Github Stats
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=itsmeshibintmz&column=3&margin-w=15&margin-h=15&theme=oldie"></a></p>
+
+<details>
+  <summary><b>📈 Stats</b> </summary>
+
+  <a href="https://github.com/itsmeshibintmz">
+    <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz"> </img>
+  </a>
+  
+  
 
 
 
