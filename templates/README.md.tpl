@@ -1,4 +1,3 @@
-@ -1,216 +1,19 @@
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
@@ -120,11 +119,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   <a href="https://github.com/itsmeshibintmz">
     <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz">
   </a>
-  
-  <!-- <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmeshibintmz&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeshibintmz&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> -->
 
 </details>
 
