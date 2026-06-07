@@ -101,9 +101,9 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 </p>
 
 📊 **&nbsp;this week i spent my time on:** 
-&lt;!--START_SECTION:waka--&gt;
+&lt;<!--START_SECTION:waka-->&gt;
 
-&lt;!--END_SECTION:waka--&gt;
+&lt;<!--END_SECTION:waka>--&gt;
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
 - Code exercises every day!
