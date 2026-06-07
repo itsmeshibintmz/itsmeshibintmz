@@ -1,0 +1,36 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 0 */1 * *'
+
+permissions:
+  contents: write
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Harden Runner
+        uses: step-security/harden-runner@a5ad31d6a139d249332a2605b85202e8c0b78450 # v2.19.1
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+
+      - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
+        with:
+          commit_message: 'Update generated README'
+          branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
