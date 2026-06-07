@@ -102,6 +102,9 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 📊 **&nbsp;this week i spent my time on:** 
 
+
+
+
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
 - Code exercises every day!
 - Trying to wake up earlier to make good use of the day
@@ -115,10 +118,16 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   <a href="https://github.com/itsmeshibintmz">
     <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz"> </img>
   </a>
+  
+  
+
+
 
 </details>
 
 📺&nbsp;Latest YouTube Videos
+
+
 
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
