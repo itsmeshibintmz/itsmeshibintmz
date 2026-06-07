@@ -105,7 +105,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 
 
-
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
 - Code exercises every day!
 - Trying to wake up earlier to make good use of the day
@@ -127,7 +126,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 </details>
 
 📺&nbsp;Latest YouTube Videos
-
 
 
 
