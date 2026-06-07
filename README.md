@@ -1,4 +1,3 @@
-@ -1,216 +1,19 @@
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
@@ -78,9 +77,9 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   💻&nbsp;<b>My workspace</b><br/><br/>
   <img alt="laptop" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-  <!-- <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> -->
+  
   <img alt="ram" src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <!-- <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> -->
+  
   <img alt="ssd" src="https://img.shields.io/badge/256%20GB%20SSD-black?style=for-the-badge" />
   <img alt="ssd" src="https://img.shields.io/badge/1%20TB%20SSD-black?style=for-the-badge" />
   <img alt="hdd" src="https://img.shields.io/badge/1%20TB%20HDD-black?style=for-the-badge" />
@@ -92,64 +91,68 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<!-- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> -->
+
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<!-- [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#) -->
+
 
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> -->
+
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
 📊 **&nbsp;this week i spent my time on:** 
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+
+
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
 - Code exercises every day!
 - Trying to wake up earlier to make good use of the day
 
 ### 📈&nbsp;My Github Stats
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=itsmeshibintmz&column=3&margin-w=15&margin-h=15&theme=oldie" 
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=itsmeshibintmz&column=3&margin-w=15&margin-h=15&theme=oldie"></a></p>
 
 <details>
   <summary><b>📈 Stats</b> </summary>
 
   <a href="https://github.com/itsmeshibintmz">
-    <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz">
+    <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz"> </img>
   </a>
   
-  <!-- <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+  
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmeshibintmz&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeshibintmz&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> -->
+
 
 </details>
 
 📺&nbsp;Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
 
-<!-- YOUTUBE:END -->
+
+
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+
+- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (today)
+- [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
+- [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
+- [Fix PlayerBar layout at narrow widths](https://github.com/sozercan/kaset/pull/270) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
+- [Add WordPress OpenLiteSpeed service template](https://github.com/coollabsio/coolify/pull/10100) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
-{{- end}}
+
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.10.2](https://github.com/sozercan/kaset/releases/tag/v0.10.2), 1 week ago) - 📻 The missing YouTube Music macOS app
 
 #### ⭐ Recent Stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+
+- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (today)
+- [rafaelconde/rafaelconde](https://github.com/rafaelconde/rafaelconde) - My personal website (today)
+- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy (today)
+- [duydat2002/Rekhchand-Sahu](https://github.com/duydat2002/Rekhchand-Sahu) - https://duydat2002.github.io/Rekhchand-Sahu/ (today)
+- [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com) - My personal portfolio website built with Next.js, Sanity and Tailwind CSS. (today)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
