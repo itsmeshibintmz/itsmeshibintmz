@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Other   0 secs          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -123,10 +118,17 @@ Other   0 secs          ██████████████████�
   <a href="https://github.com/itsmeshibintmz">
     <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz"> </img>
   </a>
+  
+  
+
+
 
 </details>
 
 📺&nbsp;Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
