@@ -101,7 +101,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 </p>
 
 📊 **&nbsp;this week i spent my time on:** 
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -128,7 +127,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 </details>
 
 📺&nbsp;Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
