@@ -143,6 +143,12 @@ Other   0 secs          ██████████████████�
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
+#### 🔨 My recent Pull Requests
+
+#### 🚀 Latest releases I've contributed to
+
+#### ⭐ Recent Stars
+
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
 If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
