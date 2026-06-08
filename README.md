@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift      1 hr 45 mins    ██████████▒░░░░░░░░░░░░░░   40.83 %
-YAML       49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
-Smarty     44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-Markdown   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-JSON       23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -137,18 +128,13 @@ JSON       23 mins         ██▒░░░░░░░░░░░░░░�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (today)
+- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
 - [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
 - [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
 - [Fix PlayerBar layout at narrow widths](https://github.com/sozercan/kaset/pull/270) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
@@ -160,11 +146,11 @@ JSON       23 mins         ██▒░░░░░░░░░░░░░░�
 
 #### ⭐ Recent Stars
 
-- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (today)
-- [rafaelconde/rafaelconde](https://github.com/rafaelconde/rafaelconde) - My personal website (today)
-- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy (today)
-- [duydat2002/Rekhchand-Sahu](https://github.com/duydat2002/Rekhchand-Sahu) - https://duydat2002.github.io/Rekhchand-Sahu/ (today)
-- [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com) - My personal portfolio website built with Next.js, Sanity and Tailwind CSS. (today)
+- [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (1 day ago)
+- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (1 day ago)
+- [rafaelconde/rafaelconde](https://github.com/rafaelconde/rafaelconde) - My personal website (1 day ago)
+- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy (1 day ago)
+- [duydat2002/Rekhchand-Sahu](https://github.com/duydat2002/Rekhchand-Sahu) - https://duydat2002.github.io/Rekhchand-Sahu/ (1 day ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
