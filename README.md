@@ -37,11 +37,12 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 </a>
 
 <br />
+</h1>
 
 <p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
 <br/>
  <em><b>- Henry Ford</b></em>
-<br /><br />
+<br><br/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
@@ -49,7 +50,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 
 Hi, I'm [Shibin Thomas](https://itsmeshibintmz.github.io/), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm 26 years old and graduated with a degree in Bachelor of Computer Applications at [St. George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09). I have been working at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
+I'm 26 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). I have been working at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -102,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift      1 hr 45 mins    █████████▓░░░░░░░░░░░░░░░   39.02 %
-YAML       58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
-Smarty     44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Markdown   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-JSON       23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -136,11 +128,6 @@ JSON       23 mins         ██░░░░░░░░░░░░░░░�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -173,13 +160,6 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
   
 ## Contribution Graph
 [![Shibin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeshibintmz&theme=high-contrast&custom_title=Shibin%20Thomas's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🐍 Contribution Snake Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake.svg">
-</picture>
 
 <details>
   <summary>📃 &nbsp;Resume</summary>
