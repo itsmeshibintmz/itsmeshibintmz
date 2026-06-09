@@ -163,9 +163,9 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
 
 ### 🐍 Contribution Snake Game
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake-sissa.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake-sissa-white.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake-sissa.svg">
 </picture>
 
 <details>
