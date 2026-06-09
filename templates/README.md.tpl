@@ -151,6 +151,13 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
 ## Contribution Graph
 [![Shibin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeshibintmz&theme=high-contrast&custom_title=Shibin%20Thomas's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### 🐍 Contribution Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/output/github-contribution-grid-snake.svg">
+</picture>
+
 <details>
   <summary>📃 &nbsp;Resume</summary>
 <br>
