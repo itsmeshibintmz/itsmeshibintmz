@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift        1 hr 45 mins    ███████▓░░░░░░░░░░░░░░░░░   30.88 %
-Smarty       1 hr 13 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-YAML         1 hr 7 mins     █████░░░░░░░░░░░░░░░░░░░░   19.68 %
-Markdown     48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-JSON         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -143,14 +134,15 @@ JSON         23 mins         █▓░░░░░░░░░░░░░░░
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Linked Goals &amp; Customizable Net Worth Exclusion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/4) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (today)
 - [feat: trigger haptic feedback and confetti on goal completion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/2) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (today)
 - [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 days ago)
 - [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
 - [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
-- [Fix PlayerBar layout at narrow widths](https://github.com/sozercan/kaset/pull/270) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
+- [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), today)
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.11.0](https://github.com/sozercan/kaset/releases/tag/v0.11.0), 2 days ago) - 📻 The missing YouTube Music macOS app
 
 #### ⭐ Recent Stars
