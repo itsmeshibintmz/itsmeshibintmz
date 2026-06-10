@@ -55,7 +55,7 @@ I'm 26 years old and graduated with a degree in Bachelor of Computer Application
 I'm also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
 - 📃 &nbsp; [About Me](https://shibin.vercel.app)
-- 💼 &nbsp; any freelance work? do reach, [email](mailto:josephthomas948@gmail.com) :) 
+- 💼 &nbsp; any freelance work? do reach, [email](mailto:shibin.thomas.dev@gmail.com) :) 
 - 💬 &nbsp; ask me about anything, i am happy to help;
 
 ## 🛠 **&nbsp;languages and tools:** 
