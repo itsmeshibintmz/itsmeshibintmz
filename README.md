@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift        1 hr 45 mins    ███████▒░░░░░░░░░░░░░░░░░   29.18 %
-Smarty       1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-YAML         1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Markdown     48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-JSON         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -137,35 +128,30 @@ JSON         23 mins         █▓░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Linked Goals &amp; Customizable Net Worth Exclusion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/4) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (2 days ago)
-- [feat: trigger haptic feedback and confetti on goal completion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/2) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (2 days ago)
-- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (5 days ago)
+- [feat: Linked Goals &amp; Customizable Net Worth Exclusion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/4) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (3 days ago)
+- [feat: trigger haptic feedback and confetti on goal completion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/2) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (3 days ago)
+- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (6 days ago)
 - [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 weeks ago)
 - [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 2 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.11.0](https://github.com/sozercan/kaset/releases/tag/v0.11.0), 4 days ago) - 📻 The missing YouTube Music macOS app
+- [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 3 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.11.0](https://github.com/sozercan/kaset/releases/tag/v0.11.0), 5 days ago) - 📻 The missing YouTube Music macOS app
 
 #### ⭐ Recent Stars
 
-- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image. (3 days ago)
-- [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (5 days ago)
-- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (5 days ago)
-- [rafaelconde/rafaelconde](https://github.com/rafaelconde/rafaelconde) - My personal website (5 days ago)
-- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy (5 days ago)
+- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image. (4 days ago)
+- [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (6 days ago)
+- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (6 days ago)
+- [rafaelconde/rafaelconde](https://github.com/rafaelconde/rafaelconde) - My personal website (6 days ago)
+- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy (6 days ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
