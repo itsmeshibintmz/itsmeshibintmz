@@ -105,11 +105,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        1 hr 45 mins    ███████▒░░░░░░░░░░░░░░░░░   29.18 %
-Smarty       1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-YAML         1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Markdown     48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-JSON         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Smarty       28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+Markdown     23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+Git Config   19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+YAML         18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+Kotlin       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
 ```
 
 <!--END_SECTION:waka--> 
