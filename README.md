@@ -103,6 +103,15 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+
+```txt
+Smarty       28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+Markdown     23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+Git Config   19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+YAML         18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+Kotlin       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+```
+
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
