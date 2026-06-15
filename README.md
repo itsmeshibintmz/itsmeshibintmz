@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 <a href="https://discordapp.com/channels/@me/shibin23#9991/">
   <img align="left" alt="Shibin's Discord" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/discord.svg" />
 </a>
-<a href="https://www.instagram.com/itsme_shibintmz/">
+<a href="https://www.instagram.com/shibin.mov/">
   <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/itsmeshibintmz">
@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Smarty       28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-Markdown     23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-Git Config   19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-YAML         18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-Kotlin       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -137,11 +128,6 @@ Kotlin       9 mins          ██░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
