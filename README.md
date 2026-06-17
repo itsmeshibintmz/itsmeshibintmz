@@ -112,18 +112,15 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 ### 📈&nbsp;My Github Stats
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=itsmeshibintmz&column=3&margin-w=15&margin-h=15&theme=oldie"></a></p>
 
-<details>
-  <summary><b>📈 Stats</b> </summary>
+<b>📈 Stats</b>
 
-  <a href="https://github.com/itsmeshibintmz">
-    <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz"> </img>
-  </a>
-  
-  
+<a href="https://github.com/itsmeshibintmz">
+  <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz"> </img>
+</a>
 
 
 
-</details>
+
 
 📺&nbsp;Latest YouTube Videos
 
