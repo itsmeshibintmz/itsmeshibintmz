@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-JavaScript   3 hrs           ██████████████░░░░░░░░░░░   56.12 %
-YAML         1 hr 19 mins    ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-TypeScript   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Git Config   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ Git Config   13 mins         █░░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -158,11 +144,11 @@ Git Config   13 mins         █░░░░░░░░░░░░░░░░
 
 #### ⭐ Recent Stars
 
+- [cyberphantom52/oxygenos_nothing_pong](https://github.com/cyberphantom52/oxygenos_nothing_pong) - Issue tracker for the OxygenOS port on the Nothing Phone (2) (today)
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image. (1 week ago)
 - [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (2 weeks ago)
 - [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (2 weeks ago)
 - [rafaelconde/rafaelconde](https://github.com/rafaelconde/rafaelconde) - My personal website (2 weeks ago)
-- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy (2 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
