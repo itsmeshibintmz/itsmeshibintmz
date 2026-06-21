@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-JavaScript   3 hrs           ██████████████░░░░░░░░░░░   56.12 %
-YAML         1 hr 19 mins    ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-TypeScript   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Git Config   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ Git Config   13 mins         █░░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -147,7 +133,7 @@ Git Config   13 mins         █░░░░░░░░░░░░░░░░
 
 - [feat: Linked Goals &amp; Customizable Net Worth Exclusion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/4) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (1 week ago)
 - [feat: trigger haptic feedback and confetti on goal completion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/2) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (1 week ago)
-- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
+- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 weeks ago)
 - [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 weeks ago)
 - [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 weeks ago)
 
@@ -159,10 +145,10 @@ Git Config   13 mins         █░░░░░░░░░░░░░░░░
 #### ⭐ Recent Stars
 
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image. (1 week ago)
-- [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (1 week ago)
-- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (1 week ago)
-- [rafaelconde/rafaelconde](https://github.com/rafaelconde/rafaelconde) - My personal website (1 week ago)
-- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy (1 week ago)
+- [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (2 weeks ago)
+- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (2 weeks ago)
+- [rafaelconde/rafaelconde](https://github.com/rafaelconde/rafaelconde) - My personal website (2 weeks ago)
+- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy (2 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
