@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-YAML         26 mins         █████████████▒░░░░░░░░░░░   53.06 %
-Markdown     13 mins         ███████░░░░░░░░░░░░░░░░░░   27.69 %
-JavaScript   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Smarty       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -158,9 +144,9 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 #### ⭐ Recent Stars
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. (1 day ago)
-- [cyberphantom52/oxygenos_nothing_pong](https://github.com/cyberphantom52/oxygenos_nothing_pong) - Issue tracker for the OxygenOS port on the Nothing Phone (2) (1 day ago)
-- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image. (1 week ago)
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. (2 days ago)
+- [cyberphantom52/oxygenos_nothing_pong](https://github.com/cyberphantom52/oxygenos_nothing_pong) - Issue tracker for the OxygenOS port on the Nothing Phone (2) (2 days ago)
+- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image. (2 weeks ago)
 - [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (2 weeks ago)
 - [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (2 weeks ago)
 
