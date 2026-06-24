@@ -103,14 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Smarty       4 mins          ██████████▒░░░░░░░░░░░░░░   41.88 %
-YAML         3 mins          ██████████░░░░░░░░░░░░░░░   40.08 %
-JSON         1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -147,8 +139,8 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 #### 🚀 Latest releases I've contributed to
 
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), today) - 📻 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 2 weeks ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.11.0](https://github.com/sozercan/kaset/releases/tag/v0.11.0), 2 weeks ago) - 📻 The missing YouTube and YouTube Music macOS app
 
 #### ⭐ Recent Stars
 
