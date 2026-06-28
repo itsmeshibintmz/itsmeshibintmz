@@ -32,7 +32,7 @@ jobs:
         run: |
           sed -i 's/📊 \*\*\&nbsp;this week i spent my time on:\*\*/📊 **\&nbsp;this week i spent my time on:**\n\n<!--START_SECTION:waka-->\n<!--END_SECTION:waka-->/' README.md
           sed -i 's/📺\&nbsp;Latest YouTube Videos/📺\&nbsp;Latest YouTube Videos\n\n<!-- YOUTUBE:START -->\n<!-- YOUTUBE:END -->/' README.md
-      - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
+      - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d
         with:
           commit_message: 'Update generated README'
           branch: main
