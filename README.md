@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift        2 hrs 38 mins   ██████████████▒░░░░░░░░░░   56.95 %
-Markdown     1 hr 31 mins    ████████▒░░░░░░░░░░░░░░░░   32.92 %
-Other        18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ YAML         2 mins          ▒░░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -147,23 +133,23 @@ YAML         2 mins          ▒░░░░░░░░░░░░░░░░
 
 - [feat: Linked Goals &amp; Customizable Net Worth Exclusion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/4) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (2 weeks ago)
 - [feat: trigger haptic feedback and confetti on goal completion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/2) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (2 weeks ago)
-- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 weeks ago)
+- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 weeks ago)
 - [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 month ago)
 - [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.2.0](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.2.0), today) - The macOS Netflix app Apple users deserved.
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), 3 days ago) - 📻 The missing YouTube and YouTube Music macOS app
+- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.2.0](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.2.0), 1 day ago) - The macOS Netflix app Apple users deserved.
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), 4 days ago) - 📻 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. (6 days ago)
-- [cyberphantom52/oxygenos_nothing_pong](https://github.com/cyberphantom52/oxygenos_nothing_pong) - Issue tracker for the OxygenOS port on the Nothing Phone (2) (6 days ago)
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. (1 week ago)
+- [cyberphantom52/oxygenos_nothing_pong](https://github.com/cyberphantom52/oxygenos_nothing_pong) - Issue tracker for the OxygenOS port on the Nothing Phone (2) (1 week ago)
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image. (2 weeks ago)
-- [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (2 weeks ago)
-- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (2 weeks ago)
+- [sozercan/sozercan](https://github.com/sozercan/sozercan) - 👋 (3 weeks ago)
+- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR. (3 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
