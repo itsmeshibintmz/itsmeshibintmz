@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift        3 hrs 34 mins   █████████████▓░░░░░░░░░░░   54.81 %
-Markdown     1 hr 44 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-Other        48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -149,7 +140,7 @@ XML          6 mins          ▒░░░░░░░░░░░░░░░░
 #### 🚀 Latest releases I've contributed to
 
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.3.7](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.3.7), 3 days ago) - The macOS Netflix app Apple users deserved.
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), 1 week ago) - 📻 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 3 weeks ago)
 
 #### ⭐ Recent Stars
