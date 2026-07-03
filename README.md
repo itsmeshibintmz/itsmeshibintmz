@@ -125,6 +125,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
+- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
+- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
+- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
+- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
