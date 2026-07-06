@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-JavaScript   34 mins         ███████████▒░░░░░░░░░░░░░   44.77 %
-YAML         18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 %
-TypeScript   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ Markdown     5 mins          █▓░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -159,8 +145,8 @@ Markdown     5 mins          █▓░░░░░░░░░░░░░░░
 
 #### ⭐ Recent Stars
 
-- [isaacsa51/Minus](https://github.com/isaacsa51/Minus) - Register, calculate and make reminders for your recurring expenses alongside credit card due dates. (today)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (5 days ago)
+- [isaacsa51/Minus](https://github.com/isaacsa51/Minus) - Register, calculate and make reminders for your recurring expenses alongside credit card due dates. (1 day ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (6 days ago)
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. (2 weeks ago)
 - [cyberphantom52/oxygenos_nothing_pong](https://github.com/cyberphantom52/oxygenos_nothing_pong) - Issue tracker for the OxygenOS port on the Nothing Phone (2) (2 weeks ago)
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image. (3 weeks ago)
