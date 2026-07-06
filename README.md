@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-JavaScript   34 mins         ███████████▒░░░░░░░░░░░░░   44.77 %
-YAML         18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 %
-TypeScript   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ Markdown     5 mins          █▓░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
