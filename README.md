@@ -139,8 +139,8 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 #### 🚀 Latest releases I've contributed to
 
+- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.4.0](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.4.0), today) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), today) - Unofficial app for chess.com for macOS
-- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.3.7](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.3.7), 1 week ago) - The macOS Netflix app Apple users deserved.
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 1 month ago)
 
