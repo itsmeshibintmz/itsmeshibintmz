@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift        57 mins         ██████████▓░░░░░░░░░░░░░░   42.20 %
-Markdown     27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-Other        19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-Python       16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-CSS          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ CSS          4 mins          █░░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -153,7 +139,7 @@ CSS          4 mins          █░░░░░░░░░░░░░░░░
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.4.0](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.4.0), today) - The macOS Netflix app Apple users deserved.
+- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.4.2](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.4.2), today) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), today) - Unofficial app for chess.com for macOS
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 1 month ago)
