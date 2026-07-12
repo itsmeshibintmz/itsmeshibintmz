@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift        1 hr 29 mins    ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-Other        1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-Markdown     57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
-JSON         54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-Python       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ Python       16 mins         █▒░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -160,11 +146,11 @@ Python       16 mins         █▒░░░░░░░░░░░░░░░
 
 #### ⭐ Recent Stars
 
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu &amp; LSPosed(xposed) modules &amp; rooting guides (today)
 - [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes. (5 days ago)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (6 days ago)
 - [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial) (6 days ago)
 - [isaacsa51/Minus](https://github.com/isaacsa51/Minus) - Register, calculate and make reminders for your recurring expenses alongside credit card due dates. (1 week ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
