@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Swift        1 hr 29 mins    ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-Other        1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-Markdown     57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
-JSON         54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-Python       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ Python       16 mins         █▒░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
-- [GTA V - Lazy night Gameplay](https://www.youtube.com/watch?v=qr9l4EUNkr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -153,17 +139,17 @@ Python       16 mins         █▒░░░░░░░░░░░░░░░
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.4.2](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.4.2), 2 days ago) - The macOS Netflix app Apple users deserved.
-- [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 2 days ago) - Unofficial app for chess.com for macOS
+- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.4.2](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.4.2), 3 days ago) - The macOS Netflix app Apple users deserved.
+- [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 3 days ago) - Unofficial app for chess.com for macOS
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 1 month ago)
 
 #### ⭐ Recent Stars
 
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu &amp; LSPosed(xposed) modules &amp; rooting guides (today)
-- [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes. (5 days ago)
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (6 days ago)
-- [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial) (6 days ago)
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu &amp; LSPosed(xposed) modules &amp; rooting guides (1 day ago)
+- [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes. (6 days ago)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (1 week ago)
+- [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial) (1 week ago)
 - [isaacsa51/Minus](https://github.com/isaacsa51/Minus) - Register, calculate and make reminders for your recurring expenses alongside credit card due dates. (1 week ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
