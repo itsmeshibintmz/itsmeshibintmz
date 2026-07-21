@@ -103,12 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Git Config   5 mins          ██████████████████░░░░░░░   72.42 %
-XML          2 mins          ███████░░░░░░░░░░░░░░░░░░   27.58 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -152,11 +146,11 @@ XML          2 mins          ███████░░░░░░░░░░
 
 #### ⭐ Recent Stars
 
+- [Ravvioli/chest-clicker](https://github.com/Ravvioli/chest-clicker) -  (today)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (today)
+- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. (today)
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/ (2 days ago)
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (2 days ago)
-- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3) (4 days ago)
-- [monsivamon/twitter-apk](https://github.com/monsivamon/twitter-apk) - Apk builds of piko patches (1 week ago)
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu &amp; LSPosed(xposed) modules &amp; rooting guides (1 week ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
