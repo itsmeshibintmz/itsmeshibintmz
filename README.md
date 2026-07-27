@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Smarty   4 mins          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -130,11 +125,6 @@ Smarty   4 mins          ██████████████████�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -144,21 +134,21 @@ Smarty   4 mins          ██████████████████�
 - [feat: Linked Goals &amp; Customizable Net Worth Exclusion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/4) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (1 month ago)
 - [feat: trigger haptic feedback and confetti on goal completion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/2) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (1 month ago)
 - [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 month ago)
-- [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 month ago)
-- [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 month ago)
+- [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 months ago)
+- [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.0](https://github.com/sozercan/kaset/releases/tag/v0.13.0), 2 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.0](https://github.com/sozercan/kaset/releases/tag/v0.13.0), 3 days ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.4.2](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.4.2), 2 weeks ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 2 weeks ago) - Unofficial app for chess.com for macOS
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Ravvioli/chest-clicker](https://github.com/Ravvioli/chest-clicker) -  (5 days ago)
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (5 days ago)
-- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. (5 days ago)
+- [Ravvioli/chest-clicker](https://github.com/Ravvioli/chest-clicker) -  (6 days ago)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (6 days ago)
+- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. (6 days ago)
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/ (1 week ago)
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (1 week ago)
 
