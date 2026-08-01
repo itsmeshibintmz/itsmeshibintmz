@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-XML   20 mins         █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -144,15 +139,15 @@ XML   20 mins         ███████████████████�
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.1](https://github.com/sozercan/kaset/releases/tag/v0.13.1), 4 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.1](https://github.com/sozercan/kaset/releases/tag/v0.13.1), 5 days ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.4.2](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.4.2), 3 weeks ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 3 weeks ago) - Unofficial app for chess.com for macOS
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 1 month ago)
 
 #### ⭐ Recent Stars
 
-- [MythicalSHUB/SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow) - SpatialFlow delivers a next-generation music experience on Android, blending online streaming, high-fidelity local playback, intelligent audio processing, and Material 3 Expressive design into a fast, elegant, and immersive music ecosystem. (4 days ago)
-- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone. (4 days ago)
+- [MythicalSHUB/SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow) - SpatialFlow delivers a next-generation music experience on Android, blending online streaming, high-fidelity local playback, intelligent audio processing, and Material 3 Expressive design into a fast, elegant, and immersive music ecosystem. (5 days ago)
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone. (5 days ago)
 - [Ravvioli/chest-clicker](https://github.com/Ravvioli/chest-clicker) -  (1 week ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (1 week ago)
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. (1 week ago)
