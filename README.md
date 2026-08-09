@@ -103,6 +103,15 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+
+```txt
+Swift      1 hr 37 mins    ██████████▓░░░░░░░░░░░░░░   42.39 %
+XML        1 hr 3 mins     ███████░░░░░░░░░░░░░░░░░░   27.50 %
+Markdown   39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+Other      25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Bash       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+```
+
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
