@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -151,11 +146,11 @@ No activity tracked
 
 #### ⭐ Recent Stars
 
-- [polodarb/GMS-Flags-Reborn](https://github.com/polodarb/GMS-Flags-Reborn) - Android root/Xposed app for browsing and overriding Google&#39;s hidden Phenotype flags. Successor to GMS Flags (2 days ago)
+- [polodarb/GMS-Flags-Reborn](https://github.com/polodarb/GMS-Flags-Reborn) - Android root/Xposed app for browsing and overriding Google&#39;s hidden Phenotype flags. Successor to GMS Flags (3 days ago)
 - [MythicalSHUB/SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow) - SpatialFlow delivers a next-generation music experience on Android, blending online streaming, high-fidelity local playback, intelligent audio processing, and Material 3 Expressive design into a fast, elegant, and immersive music ecosystem. (2 weeks ago)
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone. (2 weeks ago)
-- [Ravvioli/chest-clicker](https://github.com/Ravvioli/chest-clicker) -  (2 weeks ago)
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (2 weeks ago)
+- [Ravvioli/chest-clicker](https://github.com/Ravvioli/chest-clicker) -  (3 weeks ago)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (3 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
