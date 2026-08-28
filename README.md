@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -130,11 +125,6 @@ No activity tracked
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -156,11 +146,11 @@ No activity tracked
 
 #### ⭐ Recent Stars
 
-- [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) - Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch (4 days ago)
+- [Andrew6rant/Andrew6rant](https://github.com/Andrew6rant/Andrew6rant) - My personal repository. Calculates my repositories, commits, stars, followers, and total lines of code contributed by me (today)
+- [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) - Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch (5 days ago)
 - [polodarb/GMS-Flags-Reborn](https://github.com/polodarb/GMS-Flags-Reborn) - Android root/Xposed app for browsing and overriding Google&#39;s hidden Phenotype flags. Successor to GMS Flags (2 weeks ago)
 - [MythicalSHUB/SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow) - SpatialFlow delivers a next-generation music experience on Android, blending online streaming, high-fidelity local playback, intelligent audio processing, and Material 3 Expressive design into a fast, elegant, and immersive music ecosystem. (1 month ago)
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone. (1 month ago)
-- [Ravvioli/chest-clicker](https://github.com/Ravvioli/chest-clicker) -  (1 month ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
