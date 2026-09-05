@@ -103,12 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Smarty   3 mins          ███████████████████████░░   91.43 %
-Swift    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -131,11 +125,6 @@ Swift    0 secs          ██░░░░░░░░░░░░░░░░�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -144,7 +133,7 @@ Swift    0 secs          ██░░░░░░░░░░░░░░░░�
 
 - [feat: Linked Goals &amp; Customizable Net Worth Exclusion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/4) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (2 months ago)
 - [feat: trigger haptic feedback and confetti on goal completion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/2) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (2 months ago)
-- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 months ago)
+- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 months ago)
 - [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 months ago)
 - [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 months ago)
 
@@ -157,11 +146,11 @@ Swift    0 secs          ██░░░░░░░░░░░░░░░░�
 
 #### ⭐ Recent Stars
 
-- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. (1 day ago)
-- [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS (5 days ago)
+- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. (2 days ago)
+- [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS (6 days ago)
 - [Andrew6rant/Andrew6rant](https://github.com/Andrew6rant/Andrew6rant) - My personal repository. Calculates my repositories, commits, stars, followers, and total lines of code contributed by me (1 week ago)
 - [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) - Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch (1 week ago)
-- [polodarb/GMS-Flags-Reborn](https://github.com/polodarb/GMS-Flags-Reborn) - Android root/Xposed app for browsing and overriding Google&#39;s hidden Phenotype flags. Successor to GMS Flags (3 weeks ago)
+- [polodarb/GMS-Flags-Reborn](https://github.com/polodarb/GMS-Flags-Reborn) - Android root/Xposed app for browsing and overriding Google&#39;s hidden Phenotype flags. Successor to GMS Flags (4 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
