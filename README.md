@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -151,11 +146,11 @@ No activity tracked
 
 #### ⭐ Recent Stars
 
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (today)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (today)
+- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds (today)
+- [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball) - Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works. (today)
 - [jonnyoo/glance](https://github.com/jonnyoo/glance) -  (1 day ago)
-- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs. (6 days ago)
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (6 days ago)
-- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. (1 week ago)
-- [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS (2 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
