@@ -125,11 +125,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -151,11 +146,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 #### ⭐ Recent Stars
 
+- [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise) - AutoRaise (and focus) a window when hovering over it with the mouse (today)
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (today)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (today)
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds (today)
 - [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball) - Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works. (today)
-- [jonnyoo/glance](https://github.com/jonnyoo/glance) -  (1 day ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
