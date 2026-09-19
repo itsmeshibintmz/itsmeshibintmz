@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -151,11 +146,11 @@ No activity tracked
 
 #### ⭐ Recent Stars
 
-- [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise) - AutoRaise (and focus) a window when hovering over it with the mouse (5 days ago)
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (5 days ago)
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (5 days ago)
-- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds (5 days ago)
-- [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball) - Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works. (5 days ago)
+- [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise) - AutoRaise (and focus) a window when hovering over it with the mouse (6 days ago)
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (6 days ago)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (6 days ago)
+- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds (6 days ago)
+- [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball) - Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works. (6 days ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
