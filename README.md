@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -144,7 +139,7 @@ No activity tracked
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.0](https://github.com/sozercan/kaset/releases/tag/v0.14.0), 3 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), today) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 1 month ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 2 months ago) - Unofficial app for chess.com for macOS
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 3 months ago)
