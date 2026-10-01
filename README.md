@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Smarty       11 mins         ████████▓░░░░░░░░░░░░░░░░   34.81 %
-Dart         7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-Markdown     7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-Python       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-YAML         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -140,15 +131,15 @@ YAML         2 mins          █▓░░░░░░░░░░░░░░░
 
 #### 🔨 My recent Pull Requests
 
-- [fix: use Render for cloud backend (free, no CC) — finalize deployment config](https://github.com/itsmeshibintmz/instachat/pull/16) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
-- [feat: cloud backend on Fly.io (free) — no local server needed](https://github.com/itsmeshibintmz/instachat/pull/15) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
-- [fix: auto-generate release changelog from merged PRs (no manual writing)](https://github.com/itsmeshibintmz/instachat/pull/14) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
-- [feat: redesign app icon — Instagram Direct dart shape](https://github.com/itsmeshibintmz/instachat/pull/13) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
-- [feat: adaptive app icon — dark, light, monochrome, Material You, iOS tinted](https://github.com/itsmeshibintmz/instachat/pull/12) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [fix: save ORIGINAL challenge last_json so Phase 2 actually finds api_path](https://github.com/itsmeshibintmz/instachat/pull/27) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [fix: use challenge_resolve_simple in Phase 2 — no email resend, retry on error](https://github.com/itsmeshibintmz/instachat/pull/26) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [fix: all login scenarios — session reuse bug, 2FA after challenge, wrong-code retry](https://github.com/itsmeshibintmz/instachat/pull/25) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [feat: two-phase Instagram challenge flow — email verification code](https://github.com/itsmeshibintmz/instachat/pull/24) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v1.4.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v1.4.0), today) - Instachat : Your Instagram DMs. Without Instagram.
+- [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), today) - Instachat : Your Instagram DMs. Without Instagram.
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 1 month ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 2 months ago) - Unofficial app for chess.com for macOS
