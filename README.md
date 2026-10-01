@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Smarty       11 mins         ████████▓░░░░░░░░░░░░░░░░   34.81 %
-Dart         7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-Markdown     7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-Python       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-YAML         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -148,15 +139,15 @@ YAML         2 mins          █▓░░░░░░░░░░░░░░░
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 6 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 1 month ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 2 months ago) - Unofficial app for chess.com for macOS
 - [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 3 months ago)
 
 #### ⭐ Recent Stars
 
-- [buttercookie42/SimbaDroid](https://github.com/buttercookie42/SimbaDroid) - A simple SMB file server for Android (today)
-- [WesselKroos/youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos (today)
+- [buttercookie42/SimbaDroid](https://github.com/buttercookie42/SimbaDroid) - A simple SMB file server for Android (1 day ago)
+- [WesselKroos/youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos (1 day ago)
 - [rit3zh/expo-dynamic-notifications](https://github.com/rit3zh/expo-dynamic-notifications) - 💧 Dynamic Island–style in-app notifications for React Native. (1 week ago)
 - [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise) - AutoRaise (and focus) a window when hovering over it with the mouse (2 weeks ago)
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 weeks ago)
