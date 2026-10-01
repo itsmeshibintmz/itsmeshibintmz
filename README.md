@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Smarty       11 mins         ████████▓░░░░░░░░░░░░░░░░   34.81 %
-Dart         7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-Markdown     7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-Python       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-YAML         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,25 +125,21 @@ YAML         2 mins          █▓░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Linked Goals &amp; Customizable Net Worth Exclusion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/4) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (3 months ago)
-- [feat: trigger haptic feedback and confetti on goal completion](https://github.com/itsmeshibintmz/Expense_Tracker/pull/2) on [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) (3 months ago)
-- [Fix All search aggregation](https://github.com/sozercan/kaset/pull/290) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 months ago)
-- [Fix media key skip behavior](https://github.com/sozercan/kaset/pull/272) on [sozercan/kaset](https://github.com/sozercan/kaset) (4 months ago)
-- [Fix quitting from Dock or AppleScript](https://github.com/sozercan/kaset/pull/271) on [sozercan/kaset](https://github.com/sozercan/kaset) (4 months ago)
+- [fix: use Render for cloud backend (free, no CC) — finalize deployment config](https://github.com/itsmeshibintmz/instachat/pull/16) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [feat: cloud backend on Fly.io (free) — no local server needed](https://github.com/itsmeshibintmz/instachat/pull/15) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [fix: auto-generate release changelog from merged PRs (no manual writing)](https://github.com/itsmeshibintmz/instachat/pull/14) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [feat: redesign app icon — Instagram Direct dart shape](https://github.com/itsmeshibintmz/instachat/pull/13) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
+- [feat: adaptive app icon — dark, light, monochrome, Material You, iOS tinted](https://github.com/itsmeshibintmz/instachat/pull/12) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (today)
 
 #### 🚀 Latest releases I've contributed to
 
+- [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v1.4.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v1.4.0), today) - Instachat : Your Instagram DMs. Without Instagram.
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 1 month ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 2 months ago) - Unofficial app for chess.com for macOS
