@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Other        14 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
-Dart         13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-Markdown     11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Smarty       11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-Python       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,30 +125,25 @@ Python       3 mins          █▒░░░░░░░░░░░░░░░
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (6 days ago)
-- [fix: save ORIGINAL challenge last_json so Phase 2 actually finds api_path](https://github.com/itsmeshibintmz/instachat/pull/27) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (6 days ago)
-- [fix: use challenge_resolve_simple in Phase 2 — no email resend, retry on error](https://github.com/itsmeshibintmz/instachat/pull/26) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (6 days ago)
-- [fix: all login scenarios — session reuse bug, 2FA after challenge, wrong-code retry](https://github.com/itsmeshibintmz/instachat/pull/25) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (6 days ago)
-- [feat: two-phase Instagram challenge flow — email verification code](https://github.com/itsmeshibintmz/instachat/pull/24) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (6 days ago)
+- [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (1 week ago)
+- [fix: save ORIGINAL challenge last_json so Phase 2 actually finds api_path](https://github.com/itsmeshibintmz/instachat/pull/27) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (1 week ago)
+- [fix: use challenge_resolve_simple in Phase 2 — no email resend, retry on error](https://github.com/itsmeshibintmz/instachat/pull/26) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (1 week ago)
+- [fix: all login scenarios — session reuse bug, 2FA after challenge, wrong-code retry](https://github.com/itsmeshibintmz/instachat/pull/25) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (1 week ago)
+- [feat: two-phase Instagram challenge flow — email verification code](https://github.com/itsmeshibintmz/instachat/pull/24) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 6 days ago) - Instachat : Your Instagram DMs. Without Instagram.
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 1 week ago) - Instachat : Your Instagram DMs. Without Instagram.
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 2 months ago) - The macOS Netflix app Apple users deserved.
-- [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 2 months ago) - Unofficial app for chess.com for macOS
-- [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 3 months ago)
+- [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 3 months ago) - Unofficial app for chess.com for macOS
+- [itsmeshibintmz/Expense_Tracker](https://github.com/itsmeshibintmz/Expense_Tracker) ([v1.2.0](https://github.com/itsmeshibintmz/Expense_Tracker/releases/tag/v1.2.0), 4 months ago)
 
 #### ⭐ Recent Stars
 
