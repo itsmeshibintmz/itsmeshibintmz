@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -144,7 +139,7 @@ No activity tracked
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 2 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 3 days ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 1 week ago) - Instachat : Your Instagram DMs. Without Instagram.
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 2 months ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 3 months ago) - Unofficial app for chess.com for macOS
@@ -152,10 +147,10 @@ No activity tracked
 
 #### ⭐ Recent Stars
 
-- [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) -  (today)
-- [buttercookie42/SimbaDroid](https://github.com/buttercookie42/SimbaDroid) - A simple SMB file server for Android (1 week ago)
-- [WesselKroos/youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos (1 week ago)
-- [rit3zh/expo-dynamic-notifications](https://github.com/rit3zh/expo-dynamic-notifications) - 💧 Dynamic Island–style in-app notifications for React Native. (2 weeks ago)
+- [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) -  (1 day ago)
+- [buttercookie42/SimbaDroid](https://github.com/buttercookie42/SimbaDroid) - A simple SMB file server for Android (2 weeks ago)
+- [WesselKroos/youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos (2 weeks ago)
+- [rit3zh/expo-dynamic-notifications](https://github.com/rit3zh/expo-dynamic-notifications) - 💧 Dynamic Island–style in-app notifications for React Native. (3 weeks ago)
 - [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise) - AutoRaise (and focus) a window when hovering over it with the mouse (1 month ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
