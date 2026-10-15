@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -130,11 +125,6 @@ No activity tracked
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -157,11 +147,11 @@ No activity tracked
 
 #### ⭐ Recent Stars
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
 - [Roylyl/MacPlay](https://github.com/Roylyl/MacPlay) - 让Mac通过USB或共用Wi-Fi接收iPhone CarPlay画面的原生macOS应用，支持分辨率与高帧率配置。 (today)
 - [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) -  (2 days ago)
 - [buttercookie42/SimbaDroid](https://github.com/buttercookie42/SimbaDroid) - A simple SMB file server for Android (2 weeks ago)
 - [WesselKroos/youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos (2 weeks ago)
-- [rit3zh/expo-dynamic-notifications](https://github.com/rit3zh/expo-dynamic-notifications) - 💧 Dynamic Island–style in-app notifications for React Native. (3 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
