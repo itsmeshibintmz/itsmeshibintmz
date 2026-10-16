@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Other   4 mins          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -130,11 +125,6 @@ Other   4 mins          ██████████████████�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -157,11 +147,11 @@ Other   4 mins          ██████████████████�
 
 #### ⭐ Recent Stars
 
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
 - [Roylyl/MacPlay](https://github.com/Roylyl/MacPlay) - 让Mac通过USB或共用Wi-Fi接收iPhone CarPlay画面的原生macOS应用，支持分辨率与高帧率配置。 (1 day ago)
 - [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) -  (3 days ago)
 - [buttercookie42/SimbaDroid](https://github.com/buttercookie42/SimbaDroid) - A simple SMB file server for Android (2 weeks ago)
-- [WesselKroos/youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos (2 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
