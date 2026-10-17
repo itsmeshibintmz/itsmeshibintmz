@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Other   4 mins          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -144,7 +139,7 @@ Other   4 mins          ██████████████████�
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 5 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 6 days ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 2 weeks ago) - Instachat : Your Instagram DMs. Without Instagram.
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 2 months ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 3 months ago) - Unofficial app for chess.com for macOS
@@ -152,10 +147,10 @@ Other   4 mins          ██████████████████�
 
 #### ⭐ Recent Stars
 
-- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (today)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
-- [Roylyl/MacPlay](https://github.com/Roylyl/MacPlay) - 让Mac通过USB或共用Wi-Fi接收iPhone CarPlay画面的原生macOS应用，支持分辨率与高帧率配置。 (1 day ago)
-- [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) -  (3 days ago)
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (1 day ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 days ago)
+- [Roylyl/MacPlay](https://github.com/Roylyl/MacPlay) - 让Mac通过USB或共用Wi-Fi接收iPhone CarPlay画面的原生macOS应用，支持分辨率与高帧率配置。 (2 days ago)
+- [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) -  (4 days ago)
 - [buttercookie42/SimbaDroid](https://github.com/buttercookie42/SimbaDroid) - A simple SMB file server for Android (2 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
