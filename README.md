@@ -103,11 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Other   4 mins          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -152,11 +147,11 @@ Other   4 mins          ██████████████████�
 
 #### ⭐ Recent Stars
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (today)
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (4 days ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (5 days ago)
 - [Roylyl/MacPlay](https://github.com/Roylyl/MacPlay) - 让Mac通过USB或共用Wi-Fi接收iPhone CarPlay画面的原生macOS应用，支持分辨率与高帧率配置。 (5 days ago)
 - [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) -  (1 week ago)
-- [buttercookie42/SimbaDroid](https://github.com/buttercookie42/SimbaDroid) - A simple SMB file server for Android (2 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
