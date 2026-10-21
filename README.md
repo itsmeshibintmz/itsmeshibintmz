@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Text          13 mins         ███████████░░░░░░░░░░░░░░   44.44 %
-Markdown      6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-Other         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Image (png)   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-Bash          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -134,11 +125,6 @@ Bash          2 mins          █▓░░░░░░░░░░░░░░�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -153,7 +139,7 @@ Bash          2 mins          █▓░░░░░░░░░░░░░░�
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.5.1](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.5.1), 3 days ago) - SwipeRight app — public release info and card data
+- [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.5.1](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.5.1), 4 days ago) - SwipeRight app — public release info and card data
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 2 weeks ago) - Instachat : Your Instagram DMs. Without Instagram.
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 2 months ago) - The macOS Netflix app Apple users deserved.
@@ -161,10 +147,10 @@ Bash          2 mins          █▓░░░░░░░░░░░░░░�
 
 #### ⭐ Recent Stars
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (today)
-- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (4 days ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (5 days ago)
-- [Roylyl/MacPlay](https://github.com/Roylyl/MacPlay) - 让Mac通过USB或共用Wi-Fi接收iPhone CarPlay画面的原生macOS应用，支持分辨率与高帧率配置。 (5 days ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 day ago)
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (5 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (6 days ago)
+- [Roylyl/MacPlay](https://github.com/Roylyl/MacPlay) - 让Mac通过USB或共用Wi-Fi接收iPhone CarPlay画面的原生macOS应用，支持分辨率与高帧率配置。 (6 days ago)
 - [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) -  (1 week ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
