@@ -1,8 +1,10 @@
 name: Latest YouTube Videos
 on:
   schedule:
-    # At every 15th minute
-    - cron: '*/15 * * * *'  
+    # Runs at 1:30 AM UTC daily — step 3 of 3 in the update chain
+    # Must run AFTER readme-scribe (1:05 AM) which creates the YouTube markers
+    # Order: readme-scribe (1:05) → waka-readme (1:25) → youtube (1:30)
+    - cron: '30 1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,7 +18,8 @@ jobs:
           egress-policy: audit
 
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: gautamkrishnar/blog-post-workflow@e0f5be0b1cc0b8e60af52fa35f5f82af5a15e551 # v1
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTm_fmEE-cRBjyqM_noDEZA"
+          max_post_count: "5"
