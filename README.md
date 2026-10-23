@@ -13,31 +13,31 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://discordapp.com/channels/@me/shibin23#9991/">
-  <img align="left" alt="Shibin's Discord" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/discord.svg" />
+  <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/main/icons/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/shibin.mov/">
   <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/itsmeshibintmz">
-  <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/twitter.svg" />
+  <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/main/icons/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/cel9za9j8u6619mx74lmopapg">
-  <img align="left" alt="Shibin's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/spotify.svg" />
+  <img align="left" alt="Shibin's Spotify" width="22px" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/main/icons/assets/spotify.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shibin-thomas-343615206">
-  <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/linkedin.svg" />
+  <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/main/icons/assets/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/11188203/shibin-thomas" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561199031932477/"> 
-  <img align="left" alt="Steam" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/steam-icon-14883.png" />
+<a href="https://steamcommunity.com/profiles/76561199031932477/">
+  <img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/main/icons/assets/steam.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA">
-  <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/youtube.svg" />
+  <img align="left" alt="Shibin's YouTube" width="22px" src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/main/icons/assets/youtube.svg" />
 </a>
 
 <br />
-</h1>
+</p>
 
 <p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
 <br/>
@@ -45,12 +45,12 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 <br><br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Tech+Enthusiast;Cafephile;Always+learning+new+things;Evolving&center=true&width=500&height=50&font=Fira+Code&pause=1000"></a>
 </p>
 
 Hi, I'm [Shibin Thomas](https://itsmeshibintmz.github.io/), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm 27 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). I have been working at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
+I graduated with a degree in Bachelor of Computer Applications from [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09) and have been working at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -119,12 +119,12 @@ TypeScript        52 mins         █▓░░░░░░░░░░░░░�
 - Trying to wake up earlier to make good use of the day
 
 ### 📈&nbsp;My Github Stats
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=itsmeshibintmz&column=3&margin-w=15&margin-h=15&theme=oldie"></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&column=4&margin-w=15&margin-h=15&theme=oldie&no-bg=true"></a></p>
 
 <b>📈 Stats</b>
 
 <a href="https://github.com/itsmeshibintmz">
-  <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz"> </img>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeshibintmz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </a>
 
 
@@ -215,17 +215,8 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-  <a href='https://profile.codersrank.io/user/itsmeshibintmz/'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=itsmeshibintmz&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
-
-<details>
-    <summary><b>📈&nbsp;&nbsp;Activity History</b></summary>
-  <br>
-  <a href='https://profile.codersrank.io/user/itsmeshibintmz/'>
-    <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=itsmeshibintmz'>
+  <a href='https://github.com/itsmeshibintmz'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&hide_border=true&langs_count=12&count_private=true'>
   </a>
 </details>
 

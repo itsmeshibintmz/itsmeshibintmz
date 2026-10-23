@@ -3,11 +3,10 @@ name: Waka - Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12 am UTC
-    # - cron: "0 0 * * *"
-    
-    # Runs every 30 minutes
-    - cron: '*/5 * * * *'
+    # Runs at 1:25 AM UTC daily — step 2 of 3 in the update chain
+    # Must run AFTER readme-scribe (1:05 AM) which creates the waka markers
+    # Order: readme-scribe (1:05) → waka-readme (1:25) → youtube (1:30)
+    - cron: '25 1 * * *'
 
 jobs:
   update-readme:

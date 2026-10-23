@@ -4,9 +4,13 @@ on:
   workflow_dispatch:
   push:
     branches: [ "main" ]
+    paths:
+      - "templates/README.md.tpl"  # only re-run when the template itself changes
   schedule:
-    - cron: '*/5 * * * *'
-    #- cron: '0 0 */1 * *'
+    # Runs at 1:05 AM UTC daily — step 1 of 3 in the update chain
+    # Order: readme-scribe (1:05) → waka-readme (1:25) → youtube (1:30)
+    - cron: '5 1 * * *'
+
 permissions:
   contents: write
 
@@ -27,14 +31,18 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-          
-      - name: Inject waka markers into README
+
+      - name: Ensure waka and YouTube section markers exist
         run: |
-          sed -i 's/📊 \*\*\&nbsp;this week i spent my time on:\*\*/📊 **\&nbsp;this week i spent my time on:**\n\n<!--START_SECTION:waka-->\n<!--END_SECTION:waka-->/' README.md
-          sed -i 's/📺\&nbsp;Latest YouTube Videos/📺\&nbsp;Latest YouTube Videos\n\n<!-- YOUTUBE:START -->\n<!-- YOUTUBE:END -->/' README.md
+          # Only inject markers if they don't already exist (idempotent)
+          grep -q '<!--START_SECTION:waka-->' README.md || \
+            sed -i 's/📊 \*\*\&nbsp;this week i spent my time on:\*\*/📊 **\&nbsp;this week i spent my time on:**\n\n<!--START_SECTION:waka-->\n<!--END_SECTION:waka-->/' README.md
+          grep -q '<!-- YOUTUBE:START -->' README.md || \
+            sed -i 's/📺\&nbsp;Latest YouTube Videos/📺\&nbsp;Latest YouTube Videos\n\n<!-- YOUTUBE:START -->\n<!-- YOUTUBE:END -->/' README.md
+
       - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d
         with:
-          commit_message: 'Update generated README'
+          commit_message: 'chore: update generated README [skip ci]'
           branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}

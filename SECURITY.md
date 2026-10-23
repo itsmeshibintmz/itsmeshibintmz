@@ -1,21 +1,10 @@
 # Security Policy
 
-## Supported Versions
+This is a GitHub profile README repository — there are no versioned releases or software packages to report vulnerabilities against.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Reporting a Security Concern
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+If you notice something in this repository that looks like exposed credentials, a leaked token, or a malicious dependency, please reach out directly:
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- **Email:** josephthomas948@gmail.com
+- **GitHub:** [@itsmeshibintmz](https://github.com/itsmeshibintmz)
