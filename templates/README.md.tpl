@@ -153,7 +153,7 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
 <a href="https://www.buymeacoffee.com/itsmeshibintmz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
 ## Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=itsmeshibintmz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsmeshibintmz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- Activity graph temporarily removed: github-readme-activity-graph.vercel.app returns 402 (Vercel free tier overloaded).
      To restore: deploy your own instance at https://github.com/Ashutosh00710/github-readme-activity-graph

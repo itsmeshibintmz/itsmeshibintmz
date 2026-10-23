@@ -163,7 +163,7 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
 <a href="https://www.buymeacoffee.com/itsmeshibintmz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
 ## Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=itsmeshibintmz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsmeshibintmz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
