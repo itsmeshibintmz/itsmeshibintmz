@@ -32,6 +32,17 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - name: Inject dynamic age from birthday (June 26 1999)
+        run: |
+          AGE=$(python3 -c "
+          from datetime import date
+          bd = date(1999, 6, 26)
+          today = date.today()
+          age = today.year - bd.year - ((today.month, today.day) < (bd.month, bd.day))
+          print(age)
+          ")
+          sed -i "s/I graduated with a degree/I'm $AGE years old and graduated with a degree/" README.md
+
       - name: Ensure waka and YouTube section markers exist
         run: |
           # Only inject markers if they don't already exist (idempotent)

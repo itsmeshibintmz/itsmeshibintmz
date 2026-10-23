@@ -1,4 +1,4 @@
-name: snake game from a github user contributions graph
+name: Generate Contribution Snake SVG
 
 on:
   # run automatically at 0 o'clock
@@ -16,12 +16,12 @@ on:
   
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # Generates contribution snake SVGs and pushes them to the output branch
       - name: Harden the runner (Audit all outbound calls)
         uses: step-security/harden-runner@ccd8616d44fd3846e67624a50d5aad6d37bf2d25 # v2.22.1
         with:

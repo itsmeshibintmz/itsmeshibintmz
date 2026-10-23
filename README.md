@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitsmeshibintmz&countColor=%23263759) [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCTm_fmEE-cRBjyqM_noDEZA?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@itsme_shibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitsmeshibintmz&countColor=%23263759) [![YouTube](https://img.shields.io/badge/YouTube-itsmeshibintmz-FF0000?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@itsme_shibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 🔗 &nbsp;**Connect with me**
@@ -119,12 +119,19 @@ TypeScript        52 mins         █▓░░░░░░░░░░░░░�
 - Trying to wake up earlier to make good use of the day
 
 ### 📈&nbsp;My Github Stats
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&column=4&margin-w=15&margin-h=15&theme=oldie&no-bg=true"></a></p>
+<!-- Trophy temporarily removed: github-profile-trophy.vercel.app public instance returns 402 (Vercel free tier overloaded).
+     To restore: deploy your own instance at https://github.com/ryo-ma/github-profile-trophy and replace the URL below.
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://YOUR-INSTANCE.vercel.app/?username=itsmeshibintmz&column=4&margin-w=15&margin-h=15&theme=oldie&no-bg=true"></a></p>
+-->
 
 <b>📈 Stats</b>
 
 <a href="https://github.com/itsmeshibintmz">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeshibintmz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itsmeshibintmz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=itsmeshibintmz&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=itsmeshibintmz&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  </picture>
 </a>
 
 
@@ -168,8 +175,12 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
 
 <a href="https://www.buymeacoffee.com/itsmeshibintmz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
-## Contribution Graph
-[![Shibin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeshibintmz&theme=high-contrast&custom_title=Shibin%20Thomas's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=itsmeshibintmz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Activity graph temporarily removed: github-readme-activity-graph.vercel.app returns 402 (Vercel free tier overloaded).
+     To restore: deploy your own instance at https://github.com/Ashutosh00710/github-readme-activity-graph
+-->
 
 
 ### 🐍 Contribution Snake Game
@@ -216,7 +227,11 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://github.com/itsmeshibintmz'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&hide_border=true&langs_count=12&count_private=true'>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&hide_border=true&langs_count=12&count_private=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=default&hide_border=true&langs_count=12&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=default&hide_border=true&langs_count=12&count_private=true" />
+    </picture>
   </a>
 </details>
 
