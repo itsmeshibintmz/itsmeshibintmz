@@ -107,7 +107,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - Trying to wake up earlier to make good use of the day
 
 ### 📈&nbsp;My Github Stats
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=itsmeshibintmz&column=3&margin-w=15&margin-h=15&theme=oldie"></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&column=4&margin-w=15&margin-h=15&theme=oldie&no-bg=true"></a></p>
 
 <b>📈 Stats</b>
 
