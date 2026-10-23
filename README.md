@@ -124,7 +124,7 @@ TypeScript        52 mins         █▓░░░░░░░░░░░░░�
 <b>📈 Stats</b>
 
 <a href="https://github.com/itsmeshibintmz">
-  <img src="https://github-stats-alpha.vercel.app/api?username=itsmeshibintmz"> </img>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeshibintmz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </a>
 
 
