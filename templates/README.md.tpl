@@ -107,7 +107,10 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - Trying to wake up earlier to make good use of the day
 
 ### 📈&nbsp;My Github Stats
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&column=4&margin-w=15&margin-h=15&theme=oldie&no-bg=true"></a></p>
+<!-- Trophy temporarily removed: github-profile-trophy.vercel.app public instance returns 402 (Vercel free tier overloaded).
+     To restore: deploy your own instance at https://github.com/ryo-ma/github-profile-trophy and replace the URL below.
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://YOUR-INSTANCE.vercel.app/?username=itsmeshibintmz&column=4&margin-w=15&margin-h=15&theme=oldie&no-bg=true"></a></p>
+-->
 
 <b>📈 Stats</b>
 
