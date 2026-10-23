@@ -197,7 +197,11 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://github.com/itsmeshibintmz'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&hide_border=true&langs_count=12&count_private=true'>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=dark&hide_border=true&langs_count=12&count_private=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=default&hide_border=true&langs_count=12&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeshibintmz&layout=compact&theme=default&hide_border=true&langs_count=12&count_private=true" />
+    </picture>
   </a>
 </details>
 
