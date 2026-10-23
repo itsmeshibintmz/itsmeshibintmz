@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 
 Hi, I'm [Shibin Thomas](https://itsmeshibintmz.github.io/), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I graduated with a degree in Bachelor of Computer Applications from [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09) and have been working at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
+I'm 27 years old and graduated with a degree in Bachelor of Computer Applications from [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09) and have been working at [Tata Consultancy Services](https://www.tcs.com/) as a Java Software Developer since 2021.
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Dart              3 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
-Markdown          3 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-YAML              1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Text              57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-TypeScript        52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -119,10 +110,7 @@ TypeScript        52 mins         █▓░░░░░░░░░░░░░�
 - Trying to wake up earlier to make good use of the day
 
 ### 📈&nbsp;My Github Stats
-<!-- Trophy temporarily removed: github-profile-trophy.vercel.app public instance returns 402 (Vercel free tier overloaded).
-     To restore: deploy your own instance at https://github.com/ryo-ma/github-profile-trophy and replace the URL below.
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://YOUR-INSTANCE.vercel.app/?username=itsmeshibintmz&column=4&margin-w=15&margin-h=15&theme=oldie&no-bg=true"></a></p>
--->
+
 
 <b>📈 Stats</b>
 
@@ -151,7 +139,6 @@ TypeScript        52 mins         █▓░░░░░░░░░░░░░�
 - [fix: save ORIGINAL challenge last_json so Phase 2 actually finds api_path](https://github.com/itsmeshibintmz/instachat/pull/27) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
 - [fix: use challenge_resolve_simple in Phase 2 — no email resend, retry on error](https://github.com/itsmeshibintmz/instachat/pull/26) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
 - [fix: all login scenarios — session reuse bug, 2FA after challenge, wrong-code retry](https://github.com/itsmeshibintmz/instachat/pull/25) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
-- [feat: two-phase Instagram challenge flow — email verification code](https://github.com/itsmeshibintmz/instachat/pull/24) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -178,9 +165,7 @@ If you like what I do, maybe consider buying me a coffee/tea 👉☕👈
 ## Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=itsmeshibintmz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<!-- Activity graph temporarily removed: github-readme-activity-graph.vercel.app returns 402 (Vercel free tier overloaded).
-     To restore: deploy your own instance at https://github.com/Ashutosh00710/github-readme-activity-graph
--->
+
 
 
 ### 🐍 Contribution Snake Game
