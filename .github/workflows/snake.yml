@@ -3,7 +3,7 @@ name: Generate Contribution Snake SVG
 on:
   # run automatically at 0 o'clock
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "30 19 * * *"  # 1:00 AM IST (UTC+5:30)
   
   # allows to manually run the job at any time
   workflow_dispatch:
