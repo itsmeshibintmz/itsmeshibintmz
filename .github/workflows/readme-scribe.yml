@@ -7,9 +7,9 @@ on:
     paths:
       - "templates/README.md.tpl"  # only re-run when the template itself changes
   schedule:
-    # Runs at 1:05 AM UTC daily — step 1 of 3 in the update chain
-    # Order: readme-scribe (1:05) → waka-readme (1:25) → youtube (1:30)
-    - cron: '5 1 * * *'
+    # Runs at 1:05 AM IST (19:35 UTC) daily — step 1 of 3 in the update chain
+    # Order: readme-scribe (1:05 IST) → waka-readme (1:25 IST) → youtube (1:30 IST)
+    - cron: '35 19 * * *'
 
 permissions:
   contents: write
