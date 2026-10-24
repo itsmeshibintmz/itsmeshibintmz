@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Markdown      2 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   36.17 %
-Dart          1 hr 48 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
-YAML          47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-Text          44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-JSON          35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -138,11 +129,6 @@ JSON          35 mins         ██░░░░░░░░░░░░░░�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
@@ -152,7 +138,6 @@ JSON          35 mins         ██░░░░░░░░░░░░░░�
 - [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
 - [fix: save ORIGINAL challenge last_json so Phase 2 actually finds api_path](https://github.com/itsmeshibintmz/instachat/pull/27) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
 - [fix: use challenge_resolve_simple in Phase 2 — no email resend, retry on error](https://github.com/itsmeshibintmz/instachat/pull/26) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
-- [fix: all login scenarios — session reuse bug, 2FA after challenge, wrong-code retry](https://github.com/itsmeshibintmz/instachat/pull/25) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
