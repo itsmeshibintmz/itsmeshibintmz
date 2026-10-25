@@ -18,7 +18,7 @@ jobs:
           egress-policy: audit
 
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
-      - uses: gautamkrishnar/blog-post-workflow@8fe00f11b147770bd95a8e1c41f4d033c3929b5f # v1
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # v1
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTm_fmEE-cRBjyqM_noDEZA"
