@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Text           1 hr 1 min      ███████░░░░░░░░░░░░░░░░░░   27.80 %
-YAML           35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Image (jpeg)   28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Markdown       22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-JavaScript     22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -150,7 +141,7 @@ JavaScript     22 mins         ██▒░░░░░░░░░░░░░�
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.8.2](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.8.2), 4 days ago) - SwipeRight app — public release info and card data
+- [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.8.2](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.8.2), 5 days ago) - SwipeRight app — public release info and card data
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 3 weeks ago) - Instachat : Your Instagram DMs. Without Instagram.
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 2 months ago) - The macOS Netflix app Apple users deserved.
@@ -158,10 +149,10 @@ JavaScript     22 mins         ██▒░░░░░░░░░░░░░�
 
 #### ⭐ Recent Stars
 
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (today)
-- [Bodila51/reverse-engineer-Wi-Fi-router](https://github.com/Bodila51/reverse-engineer-Wi-Fi-router) -  (today)
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (4 days ago)
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (6 days ago)
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (1 day ago)
+- [Bodila51/reverse-engineer-Wi-Fi-router](https://github.com/Bodila51/reverse-engineer-Wi-Fi-router) -  (1 day ago)
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (5 days ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (1 week ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
