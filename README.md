@@ -103,15 +103,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📊 **&nbsp;this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```txt
-Markdown       56 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-YAML           55 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-Text           48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-Image (jpeg)   28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-JavaScript     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-```
-
 <!--END_SECTION:waka--> 
 
 ### :muscle:&nbsp;Things I'm currently challenging myself with:
@@ -138,34 +129,29 @@ JavaScript     22 mins         ██░░░░░░░░░░░░░░�
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
-- [fix: save ORIGINAL challenge last_json so Phase 2 actually finds api_path](https://github.com/itsmeshibintmz/instachat/pull/27) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
-- [fix: use challenge_resolve_simple in Phase 2 — no email resend, retry on error](https://github.com/itsmeshibintmz/instachat/pull/26) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (3 weeks ago)
+- [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (4 weeks ago)
+- [fix: save ORIGINAL challenge last_json so Phase 2 actually finds api_path](https://github.com/itsmeshibintmz/instachat/pull/27) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (4 weeks ago)
+- [fix: use challenge_resolve_simple in Phase 2 — no email resend, retry on error](https://github.com/itsmeshibintmz/instachat/pull/26) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (4 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.8.2](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.8.2), 6 days ago) - SwipeRight app — public release info and card data
+- [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.8.2](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.8.2), 1 week ago) - SwipeRight app — public release info and card data
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
-- [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 3 weeks ago) - Instachat : Your Instagram DMs. Without Instagram.
+- [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 4 weeks ago) - Instachat : Your Instagram DMs. Without Instagram.
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 2 months ago) - The macOS Netflix app Apple users deserved.
 - [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 3 months ago) - Unofficial app for chess.com for macOS
 
 #### ⭐ Recent Stars
 
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (2 days ago)
-- [Bodila51/reverse-engineer-Wi-Fi-router](https://github.com/Bodila51/reverse-engineer-Wi-Fi-router) -  (2 days ago)
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (6 days ago)
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (3 days ago)
+- [Bodila51/reverse-engineer-Wi-Fi-router](https://github.com/Bodila51/reverse-engineer-Wi-Fi-router) -  (3 days ago)
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (1 week ago)
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (1 week ago)
 
