@@ -135,25 +135,25 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 #### 🔨 My recent Pull Requests
 
-- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3108) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (1 day ago)
-- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3047) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (1 day ago)
+- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3108) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (2 days ago)
+- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3047) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (2 days ago)
 - [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) ([v3.3.0](https://github.com/Gathin23/cleanyourtv/releases/tag/v3.3.0), 3 days ago) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.8.2](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.8.2), 1 week ago) - SwipeRight app — public release info and card data
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 3 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 1 month ago) - Instachat : Your Instagram DMs. Without Instagram.
 - [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 3 months ago) - The macOS Netflix app Apple users deserved.
-- [itsmeshibintmz/chess.com-mac](https://github.com/itsmeshibintmz/chess.com-mac) ([v.1.4.1](https://github.com/itsmeshibintmz/chess.com-mac/releases/tag/v.1.4.1), 3 months ago) - Unofficial app for chess.com for macOS
 
 #### ⭐ Recent Stars
 
-- [AienTech/dossier](https://github.com/AienTech/dossier) - A self-hosted job search app that writes tailored resumes and cover letters from your profile. (1 day ago)
+- [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader (1 day ago)
+- [AienTech/dossier](https://github.com/AienTech/dossier) - A self-hosted job search app that writes tailored resumes and cover letters from your profile. (2 days ago)
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (1 week ago)
 - [Bodila51/reverse-engineer-Wi-Fi-router](https://github.com/Bodila51/reverse-engineer-Wi-Fi-router) -  (1 week ago)
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (1 week ago)
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (2 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
