@@ -149,11 +149,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 #### ⭐ Recent Stars
 
+- [shashvat1965/slidesense](https://github.com/shashvat1965/slidesense) - Turn the edges of your MacBook trackpad into volume and brightness sliders. Native macOS menu bar app with a Liquid Glass HUD, haptics and a media strip. (today)
 - [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) - Google_AI_Pro_2Year_ZeroCost_Auto (1 day ago)
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader (3 days ago)
 - [AienTech/dossier](https://github.com/AienTech/dossier) - A self-hosted job search and resume builder app that writes tailored resumes and cover letters from your profile. (4 days ago)
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (1 week ago)
-- [Bodila51/reverse-engineer-Wi-Fi-router](https://github.com/Bodila51/reverse-engineer-Wi-Fi-router) -  (1 week ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
