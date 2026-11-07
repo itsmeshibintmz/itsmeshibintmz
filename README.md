@@ -135,13 +135,13 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 #### 🔨 My recent Pull Requests
 
-- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3108) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (4 days ago)
-- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3047) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (4 days ago)
+- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3108) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (5 days ago)
+- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3047) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (5 days ago)
 - [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) ([v3.4.0](https://github.com/Gathin23/cleanyourtv/releases/tag/v3.4.0), 1 day ago) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) ([v3.4.0](https://github.com/Gathin23/cleanyourtv/releases/tag/v3.4.0), 2 days ago) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.8.2](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.8.2), 2 weeks ago) - SwipeRight app — public release info and card data
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 3 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 1 month ago) - Instachat : Your Instagram DMs. Without Instagram.
@@ -149,10 +149,10 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 #### ⭐ Recent Stars
 
-- [shashvat1965/slidesense](https://github.com/shashvat1965/slidesense) - Turn the edges of your MacBook trackpad into volume and brightness sliders. Native macOS menu bar app with a Liquid Glass HUD, haptics and a media strip. (today)
-- [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) - Google_AI_Pro_2Year_ZeroCost_Auto (1 day ago)
-- [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader (3 days ago)
-- [AienTech/dossier](https://github.com/AienTech/dossier) - A self-hosted job search and resume builder app that writes tailored resumes and cover letters from your profile. (4 days ago)
+- [shashvat1965/slidesense](https://github.com/shashvat1965/slidesense) - Turn the edges of your MacBook trackpad into volume and brightness sliders. Native macOS menu bar app with a Liquid Glass HUD, haptics and a media strip. (1 day ago)
+- [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) - Google_AI_Pro_2Year_ZeroCost_Auto (2 days ago)
+- [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader (4 days ago)
+- [AienTech/dossier](https://github.com/AienTech/dossier) - A self-hosted job search and resume builder app that writes tailored resumes and cover letters from your profile. (5 days ago)
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (1 week ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
