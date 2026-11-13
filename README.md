@@ -149,10 +149,10 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 #### ⭐ Recent Stars
 
-- [shashvat1965/slidesense](https://github.com/shashvat1965/slidesense) - Turn the edges of your MacBook trackpad into volume and brightness sliders. Native macOS menu bar app with a Liquid Glass HUD, haptics and a media strip. (6 days ago)
+- [shashvat1965/slidesense](https://github.com/shashvat1965/slidesense) - Turn the edges of your MacBook trackpad into volume and brightness sliders. Native macOS menu bar app with a Liquid Glass HUD, haptics and a media strip. (1 week ago)
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader (1 week ago)
 - [AienTech/dossier](https://github.com/AienTech/dossier) - A self-hosted job search and resume builder app that writes tailored resumes and cover letters from your profile. (1 week ago)
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (2 weeks ago)
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (2 weeks ago)
 - [Bodila51/reverse-engineer-Wi-Fi-router](https://github.com/Bodila51/reverse-engineer-Wi-Fi-router) -  (2 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
