@@ -129,36 +129,33 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📺&nbsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bro says he knows a spot.](https://www.youtube.com/watch?v=2aO0sskf7_Y)
-- [NFS Unbound Intro - 4K Gameplay](https://www.youtube.com/watch?v=88Zg2PfMXfA)
-- [Need For Speed Unbound - Gameplay](https://www.youtube.com/watch?v=FOTuAbkwRFg)
-- [GTA V - Gameplay](https://www.youtube.com/watch?v=Ca4fXb1uUdM)
-- [NFS Most Wanted - Blacklist #15](https://www.youtube.com/watch?v=ZrMinqzYYVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA)
 
 #### 🔨 My recent Pull Requests
 
-- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3108) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (2 weeks ago)
-- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3047) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (2 weeks ago)
-- [fix: bypass challenge_resolve_simple in Phase 2 — direct security_code POST](https://github.com/itsmeshibintmz/instachat/pull/28) on [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) (1 month ago)
+- [Fix Bluetooth connection state during startup](https://github.com/itsmeshibintmz/nothing-x-mac/pull/1) on [itsmeshibintmz/nothing-x-mac](https://github.com/itsmeshibintmz/nothing-x-mac) (1 day ago)
+- [Fix Bluetooth connection state during startup](https://github.com/yashraut362/nothing-x-mac/pull/6) on [yashraut362/nothing-x-mac](https://github.com/yashraut362/nothing-x-mac) (1 day ago)
+- [Update app and menu bar icons](https://github.com/yashraut362/nothing-x-mac/pull/4) on [yashraut362/nothing-x-mac](https://github.com/yashraut362/nothing-x-mac) (1 day ago)
+- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3108) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (3 weeks ago)
+- [SHOWCASE: add Spider-Man theme and rotating screensaver for Xiaomi MiTV-MOSR1](https://github.com/Gathin23/cleanyourtv/pull/3047) on [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) ([v3.6.0](https://github.com/Gathin23/cleanyourtv/releases/tag/v3.6.0), 1 day ago) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.2.4.2](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.2.4.2), 1 day ago) - The macOS Netflix app Apple users deserved.
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) ([v3.6.0](https://github.com/Gathin23/cleanyourtv/releases/tag/v3.6.0), 3 days ago) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [itsmeshibintmz/swiperight-data](https://github.com/itsmeshibintmz/swiperight-data) ([v1.8.2](https://github.com/itsmeshibintmz/swiperight-data/releases/tag/v1.8.2), 1 month ago) - SwipeRight app — public release info and card data
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 1 month ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [itsmeshibintmz/instachat](https://github.com/itsmeshibintmz/instachat) ([v2.3.0](https://github.com/itsmeshibintmz/instachat/releases/tag/v2.3.0), 1 month ago) - Instachat : Your Instagram DMs. Without Instagram.
-- [itsmeshibintmz/netflix-mac](https://github.com/itsmeshibintmz/netflix-mac) ([v.1.7.1](https://github.com/itsmeshibintmz/netflix-mac/releases/tag/v.1.7.1), 3 months ago) - The macOS Netflix app Apple users deserved.
 
 #### ⭐ Recent Stars
 
-- [yashraut362/nothing-x-mac](https://github.com/yashraut362/nothing-x-mac) - nothing x app for mac (unofficial) (4 days ago)
+- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) - The open-source Dynamic Island for React, installed with shadcn. (1 day ago)
+- [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens. (1 day ago)
+- [yashraut362/nothing-x-mac](https://github.com/yashraut362/nothing-x-mac) - nothing x app for mac (unofficial) (6 days ago)
 - [shashvat1965/slidesense](https://github.com/shashvat1965/slidesense) - Turn the edges of your MacBook trackpad into volume and brightness sliders. Native macOS menu bar app with a Liquid Glass HUD, haptics and a media strip. (2 weeks ago)
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader (2 weeks ago)
-- [AienTech/dossier](https://github.com/AienTech/dossier) - A self-hosted job search and resume builder app that writes tailored resumes and cover letters from your profile. (2 weeks ago)
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (3 weeks ago)
 
 ### 👨🏻‍🤝‍👨🏻 Support Me
 
